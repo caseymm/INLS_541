@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<link href="css/nv.d3.css" rel="stylesheet" type="text/css">
+
+<style>
+
+body {
+  overflow-y:scroll;
+  margin: 0;
+  padding: 0;
+}
+
+
+div {
+  border: 0;
+  margin: 0;
+}
+
+/*
+#offsetDiv {
+  margin-left: 100px;
+  margin-top: 100px;
+}
+*/
+h2{
+    line-height: .5;
+    margin: 3px 3px 0px 3px;
+}
+
+#test1 {
+  margin-left: 10px;
+  margin-top: -400px;
+}
+
+#test1 svg {
+  height: 900px;
+}
+
+.nv-legendWrap{
+   visibility: hidden;
+}
+
+.labels{
+    color:#000000;
+    visibility: visible !important;
+}
+
+</style>
+
+<body>
+
+<div id="offsetDiv">
+  <div id="test1" class='with-3d-shadow with-transitions'>
+    <svg></svg>
+  </div>
+</div>
+
+<script src="js/d3.v3.js"></script>
+<script src="js/nv.d3.js"></script>
+<script src="js/tooltip.js"></script>
+<script src="js/utils.js"></script>
+<script src="js/legend.js"></script>
+<script src="js/axis.js"></script>
+<script src="js/distribution.js"></script>
+<script src="js/scatter.js"></script>
+<script src="js/scatterChart.js"></script>
+<script>
+
+
+var scatterdata;
+   //Don't need to initialize nested array, d3.nest will create it.
+
+d3.csv("Salary.csv", function (error, csv) {
+  if (error) return console.log("there was an error loading the csv: " + error);
+  console.log("there are " + csv.length + " elements in my csv set");
+
+  var nestFunction = d3.nest()
+                       .key(function(d){return "<h3>"+ d.Name +"</h3><p>"+ d.size +" yrs w/company</p>";})
+                       //.key(function(d) { return d.size; });
+      //create the function that will nest data by country name
+
+  scatterdata = nestFunction.entries(
+
+                      csv.map(function(d){ 
+                                     d.x = +d.Age;  
+                                     d.y = +d.Salary;
+                                     //d.size = +d.size;
+                                     return d;  
+                                 })
+
+                    );
+});
+
+//Format A
+var commasFormatter = d3.format(",.0f");
+var chart;
+nv.addGraph(function() {
+  chart = nv.models.scatterChart()
+                .showDistX(true)
+                .showDistY(true)
+                //.useVoronoi(true)
+                //.color(d3.scale.category10().range())
+                .transitionDuration(300)
+                ;
+  chart.forceY([0, 0])
+  chart.xAxis
+       .tickFormat(d3.round)
+       .axisLabelDistance(10)
+       .axisLabel('Employee Age');
+  chart.yAxis
+       .axisLabelDistance(10)
+       .axisLabel('Employee Salary')
+       .tickFormat(function(d) { return "$" + commasFormatter(d); })
+  chart.tooltipContent(function(key) {
+      return '' + key + '';
+  });
+
+  d3.select('#test1 svg')
+      .datum(scatterdata)
+      .call(chart);
+
+
+  nv.utils.windowResize(chart.update);
+
+  chart.dispatch.on('stateChange', function(e) { ('New State:', JSON.stringify(e)); });
+
+
+  return chart;
+});
+
+
+</script>
