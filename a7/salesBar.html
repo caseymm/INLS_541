@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<link href="css/nv.d3.css" rel="stylesheet" type="text/css">
+
+<style>
+
+body {
+  overflow-y:scroll;
+}
+
+text {
+  font: 12px sans-serif;
+}
+
+#chart1 {
+  height: 500px;
+  margin: 10px;
+  min-width: 100px;
+  min-height: 100px;
+
+
+</style>
+<body>
+
+  <div id="chart1" class='with-3d-shadow with-transitions'>
+    <svg></svg>
+  </div>
+
+<script src="js/d3.v3.js"></script>
+<script src="js/nv.d3.js"></script>
+<script src="js/tooltip.js"></script>
+<script src="js/utils.js"></script>
+<script src="js/legend.js"></script>
+<script src="js/axis.js"></script>
+<script src="js/multiBar.js"></script>
+<script src="js/multiBarChart.js"></script>
+<script src="js/stream_layers.js"></script>
+<script>
+var test_data = [ 
+  {
+    key: "2008 Q1",
+    color: "#d53e4f",
+    values: [
+      { 
+        "label" : "North" ,
+        "value" : 198000
+      } , 
+      { 
+        "label" : "East" , 
+        "value" : 190000
+      } ,
+      { 
+        "label" : "South" ,
+        "value" : 160000
+      } , 
+      { 
+        "label" : "West" , 
+        "value" : 150000
+      }
+    ]
+  },
+  {
+    key: "2008 Q2",
+    color: "#f46d43",
+    values: [
+      { 
+        "label" : "North" ,
+        "value" : 210000
+      } , 
+      { 
+        "label" : "East" , 
+        "value" : 200000
+      } ,
+      { 
+        "label" : "South" ,
+        "value" : 140000
+      } , 
+      { 
+        "label" : "West" , 
+        "value" : 155000
+      }
+    ]
+  },
+  {
+    key: "2008 Q3",
+    color: "#fdae61",
+    values: [
+      { 
+        "label" : "North" ,
+        "value" : 245000
+      } , 
+      { 
+        "label" : "East" , 
+        "value" : 210000
+      } ,
+      { 
+        "label" : "South" ,
+        "value" : 150000
+      } , 
+      { 
+        "label" : "West" , 
+        "value" : 175000
+      }
+    ]
+  },
+  {
+    key: "2008 Q4",
+    color: "#fee08b",
+    values: [
+      { 
+        "label" : "North" ,
+        "value" : 233000
+      } , 
+      { 
+        "label" : "East" , 
+        "value" : 205000
+      } ,
+      { 
+        "label" : "South" ,
+        "value" : 176000
+      } , 
+      { 
+        "label" : "West" , 
+        "value" : 177000
+      }
+    ]
+  },
+  {
+    key: "2009 Q1",
+    color: "#e6f598",
+    values: [
+      { 
+        "label" : "North" ,
+        "value" : 260000
+      } , 
+      { 
+        "label" : "East" , 
+        "value" : 190000
+      } ,
+      { 
+        "label" : "South" ,
+        "value" : 180000
+      } , 
+      { 
+        "label" : "West" , 
+        "value" : 190000
+      }
+    ]
+  },
+  {
+    key: "2009 Q2",
+    color: "#abdda4",
+    values: [
+      { 
+        "label" : "North" ,
+        "value" : 240000
+      } , 
+      { 
+        "label" : "East" , 
+        "value" : 200000
+      } ,
+      { 
+        "label" : "South" ,
+        "value" : 195000
+      } , 
+      { 
+        "label" : "West" , 
+        "value" : 193000
+      }
+    ]
+  },
+  {
+    key: "2009 Q3",
+    color: "#66c2a5",
+    values: [
+      { 
+        "label" : "North" ,
+        "value" : 228000
+      } , 
+      { 
+        "label" : "East" , 
+        "value" : 185000
+      } ,
+      { 
+        "label" : "South" ,
+        "value" : 210000
+      } , 
+      { 
+        "label" : "West" , 
+        "value" : 194000
+      }
+    ]
+  },
+  {
+    key: "2009 Q4",
+    color: "#3288bd",
+    values: [
+      { 
+        "label" : "North" ,
+        "value" : 232000
+      } , 
+      { 
+        "label" : "East" , 
+        "value" : 195000
+      } ,
+      { 
+        "label" : "South" ,
+        "value" : 250000
+      } , 
+      { 
+        "label" : "West" , 
+        "value" : 196000
+      }
+    ]
+  }
+].map(function(series) {
+  series.values = series.values.map(function(d) { return {x: d.label, y: d.value } });
+  return series;
+});
+
+
+var commasFormatter = d3.format(",.0f");
+var chart;
+nv.addGraph(function() {
+    chart = nv.models.multiBarChart()
+      .margin({bottom: 100, left:90})
+      .transitionDuration(300)
+      .delay(0)
+      .tooltipContent(function(key, y, x, graph) { return "<h3>"+key+" for "+ y +"</h3><p>Sales: "+x+"</p>" })
+      .groupSpacing(0.1);
+
+      /*var quantize = d3.scale.quantize()
+        .domain([0, 260000])
+        .range(d3.range(8).map(function(i) { return "q" + i + "-8"; }));*/
+
+    chart.multibar
+        .hideable(true);
+    
+    chart.xAxis
+        .axisLabel("Region");
+
+    chart.yAxis
+        .axisLabel("Sales")
+        .tickFormat(function(d) { return "$" + commasFormatter(d); })
+
+    d3.select('#chart1 svg')
+        .datum(test_data)
+        .call(chart);
+
+    nv.utils.windowResize(chart.update);
+
+    chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+
+    return chart;
+});
+
+</script>
