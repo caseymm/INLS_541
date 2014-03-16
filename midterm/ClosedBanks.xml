@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BankCount>
+
+		<total><number_total>24</number_total></total>
+		<total><number_total>132</number_total></total>
+		<total><number_total>234</number_total></total>
+		<total><number_total>131</number_total></total>
+	
+		<ClosedBank>
+			<State>Connecticut</State>
+			<number>2</number>
+			
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Maine</State>
+			<number>0</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Massachusetts</State>
+			<number>1</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>New Hampshire</State>
+			<number>1</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>New Jersey</State>
+			<number>6</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>New York</State>
+			<number>5</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Pennsylvania</State>
+			<number>9</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Rhode Island</State>
+			<number>0</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Vermont</State>
+			<number>0</number>
+		</ClosedBank>
+		
+		
+	
+	
+	
+	
+	
+	
+		<ClosedBank>
+			<State>Kansas</State>
+			<number>9</number>
+			
+		</ClosedBank>
+	
+		<ClosedBank>
+			<State>Illinois</State>
+			<number>60</number>
+		</ClosedBank>
+	
+		<ClosedBank>
+			<State>Indiana</State>
+			<number>3</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Iowa</State>
+			<number>2</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Michigan</State>
+			<number>14</number>
+		</ClosedBank>
+	
+		<ClosedBank>
+			<State>Minnesota</State>
+			<number>22</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Missouri</State>
+			<number>2</number>
+		</ClosedBank>
+	
+		<ClosedBank>
+			<State>Nebraska</State>
+			<number>3</number>
+		</ClosedBank>
+	
+		<ClosedBank>
+			<State>North Dakota</State>
+			<number>0</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Ohio</State>
+			<number>7</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>South Dakota</State>
+			<number>1</number>
+		</ClosedBank>
+	
+		<ClosedBank>
+			<State>Wisconsin</State>
+			<number>9</number>
+		</ClosedBank>
+
+
+
+
+
+
+	
+		<ClosedBank>
+			<State>Alabama</State>
+			<number>7</number>
+			
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Arkansas</State>
+			<number>3</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Deleware</State>
+			<number>0</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>District of Columbia</State>
+			<number>0</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Florida</State>
+			<number>73</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Georgia</State>
+			<number>89</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Kentucky</State>
+			<number>2</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Louisiana</State>
+			<number>3</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Maryland</State>
+			<number>9</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Mississippi</State>
+			<number>2</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>North Carolina</State>
+			<number>7</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Oklahoma</State>
+			<number>6</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>South Carolina</State>
+			<number>9</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Tennessee</State>
+			<number>6</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Texas</State>
+			<number>12</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Virginia</State>
+			<number>5</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>West Virginia</State>
+			<number>1</number>
+		</ClosedBank>
+		
+		
+		
+	
+	
+	
+	
+	
+		<ClosedBank>
+			<State>Alaska</State>
+			<number>0</number>
+			
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Arizona</State>
+			<number>16</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>California</State>
+			<number>40</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Colorado</State>
+			<number>9</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Hawaii</State>
+			<number>1</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Idaho</State>
+			<number>2</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Montana</State>
+			<number>16</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>New Mexico</State>
+			<number>3</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Nevada</State>
+			<number>12</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Oregon</State>
+			<number>6</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Utah</State>
+			<number>7</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Washington</State>
+			<number>18</number>
+		</ClosedBank>
+		
+		<ClosedBank>
+			<State>Wyoming</State>
+			<number>1</number>
+		</ClosedBank>
+		
+		
+	
+
+	
+</BankCount>

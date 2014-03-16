@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Highcharts Example</title>
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script type="text/javascript">
+$(function () {
+    var chart;
+    $(document).ready(function() {
+        chart = new Highcharts.Chart({
+            chart: {
+                renderTo: 'areaGraph',
+                type: 'area'
+            },
+            title: {
+                text: 'US Bank Closings by Year'
+            },
+            subtitle: {
+                text: 'Mouse over to view how many banks closed each year'
+            },
+            xAxis: {
+                labels: {
+                    formatter: function() {
+                        return this.value; // clean, unformatted number for year
+                    }
+                }
+            },
+            yAxis: {
+                title: {
+                    text: 'Number of Banks Closed'
+                },
+                labels: {
+                    formatter: function() {
+                        return this.value / 1000 +'k';
+                    }
+                }
+            },
+            tooltip: {
+                formatter: function() {
+                    return this.series.name +': <b>'+Highcharts.numberFormat(this.y, 0) +'</b><br/> banks closed in '+ this.x;
+                }
+            },
+            plotOptions: {
+                area: {
+                    pointStart: 2000,
+                    marker: {
+                        enabled: false,
+                        symbol: 'circle',
+                        radius: 1,
+                        states: {
+                            hover: {
+                                enabled: true
+                            }
+                        }
+                    }
+                }
+            },
+            series: [{
+                name: 'Banks Closed',
+                data: [2, 4, 11, 3, 4, 0, 0, 3, 25, 140, 155, 92, 43]
+            }]
+        });
+    });
+    
+});
+		</script>
+	</head>
+	<body>
+<script src="../../js/highcharts.js"></script>
+<script src="../../js/modules/exporting.js"></script>
+
+<div id="areaGraph" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+
+	</body>
+</html>

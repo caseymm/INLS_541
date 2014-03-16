@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]--><head>
+  <meta charset="utf-8" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+
+  <title>Bank Closings</title>
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="styles/foundation.min.css">
+  <link rel="stylesheet" href="styles/app1.css">
+  
+			
+			
+		</style>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
+		
+        <script src="javascripts/highcharts.js"></script>
+		<script src="javascripts/exporting.js"></script>
+		<script src="javascripts/app_col.js"></script>
+        <script src="javascripts/app_area.js"></script>
+       
+		
+        <script type="text/javascript" language="javascript" src="javascripts/jquery.foundation.accordion.js"></script>
+        <script type="text/javascript" language="javascript" src="javascripts/jquery.foundation.alerts.js"></script>
+		<script type="text/javascript" charset="utf-8">
+			
+		</script>
+
+  <script src="javascripts/modernizr.foundation.js"></script>
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+
+
+        
+     
+
+  <div class="row">
+    <div class="nine columns">
+      <h2>FDIC Failed Bank Information <img src="images/FDIC.png" width="35" height="35"> </h2>
+      <p>Listing of failed banks since October of 2000</p> 
+    </div>
+    
+    <div class="three columns">
+    <br>
+  <div href="#" class="meduim radius button dropdown">
+  Jump to:
+  <ul>
+    <li><a href="#year">Yearly Data</a></li>
+    <li class="divider"></li>
+    <li><a href="#loc">Location Data</a></li>
+    <li class="divider"></li>
+    <li><a href="#list">Complete List</a></li>
+  </ul>
+</div>
+    </div>
+  </div> 
+  
+  <div class="row">
+  	<div class="twelve columns">
+     <hr />
+    </div>
+  </div>
+  
+  
+   <div class="row">
+    <div class="twelve columns">
+  <div class="alert-box [success alert secondary]">
+  This data is only current through the end of February 2014.
+  <a href="" class="close">&times;</a>
+</div>
+ </div>
+  </div>
+    
+  <div class="row">
+    <div class="twelve columns">
+     	
+        
+       <p>The FDIC (Federal Deposit Insurance Corporation) is often appointed as receiver for failed banks. This page contains information regarding the the failed banks that the FDIC has recieved since October of 2000. The presented information includes the name of the bank, its location, date close, date reopened, and acquiring institution.</p>
+       <ul class="accordion">
+         <li class="active">
+           <div class="title">
+              <h5>What is Bank Failure?</h5>
+          </div>
+            <div class="content">
+              <p>A bank failure occurs when a bank is unable to meet its obligations to its depositors or other creditors because it has become insolvent or too illiquid to meet its liabilities. More specifically, a bank usually fails economically when the market value of its assets declines to a value that is less than the market value of its liabilities. The insolvent bank either borrows from other solvent banks or sells its assets at a lower price than its market value to generate liquid money to pay its depositors on demand. Source: <a href="http://en.wikipedia.org/wiki/Bank_failure"target="_blank">Wikipedia</a></p>
+             
+           </div>
+        </li>
+          <li>
+           <div class="title">
+              <h5>What does the FDIC do when it receives a bank?</h5>
+            </div>
+            <div class="content">
+              <p>In the United States, deposits in savings and checking accounts are backed by the FDIC. Currently, each account owner is insured up to $250,000 in the event of a bank failure. When a bank fails, in addition to insuring the deposits, the FDIC acts as the receiver of the failed bank, taking control of the bank's assets and deciding how to settle its debts. Source: <a href="http://en.wikipedia.org/wiki/Bank_failure"target="_blank">Wikipedia</a></p>
+            </div>
+          </li>
+          
+         </ul>
+
+    </div>
+  </div>
+  
+
+  <div class="row">
+    <div class="four columns">
+     
+
+      <!-- Grid Example -->
+     
+    <h4>Extra Info</h4>  
+ <div class="panel callout radius">
+ 
+  <h1>+ 460%</h1>
+  <br>
+  <p>The number of fank failures received by the FDIC increased 460% from 2008 to 2009.</p>
+  </div>
+<div class="panel callout radius"> 
+  <h1>50.29%</h1>
+  <br>
+  <p>Bank failures in four states, Georgia, Florida, Illinois, and California account for 50.29% of all failed banks received by the FDIC in the past 12 years. Combined, they account for total of 248 bank failures out of a total 481. </p>
+</div>
+
+
+      
+    
+      
+    </div>
+
+    <div class="eight columns">
+          <a id="year"><h4>Bank Failures by Year</h4></a>
+        <div id="areaGraph" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+    </div>
+  </div>
+
+  <div class ="row">
+  <div class ="twelve columns">
+     
+	      
+  <a id="loc"><h4>Bank Failures by Location</h4></a>
+  <p>Click on the tabs labeled "Graph" and "Map" to see the data displayed in a zoomable bar graph or in a choropleth map by state.</p>
+  
+  <dl class="contained tabs">
+	      <dd><a href="#countGraph" class="active">Graph</a></dd>
+	      <dd><a href="#countMap">Map</a></dd>
+  </dl>
+
+  <ul class="tabs-content contained">
+	      <li id="countGraphTab" class="active">
+	           <div id="container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+	      </li>
+	      <li id="countMapTab">
+	           <iframe width="100%" height="600" scrolling="auto" frameborder="0"  src="usMap/usMap.html"></iframe>
+	      </li>
+	      
+  </ul>
+  
+  
+  </div>
+  </div>
+  
+  
+
+  <div class="row">
+    <div class="twelve columns">
+     	<a id="list"><h4>Listing of Failed Banks</h4></a>
+        <iframe width="101.5%" height="650" scrolling="auto" frameborder="0"  src="DataTablesBanks.html"></iframe>
+
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="twelve columns">
+     	<p>Data found through <a href="https://explore.data.gov/Banking-Finance-and-Insurance/FDIC-Failed-Bank-List/pwaj-zn2n"target="_blank">DATA.gov</a> and contributed by the <a href="http://www.fdic.gov/bank/individual/failed/index.html"target="_blank">FDIC</a></p>
+
+    </div>
+  </div>
+  
+  
+  
+  
+  <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  -->
+  
+  <!-- Included JS Files (Compressed) -->
+  
+  <script src="javascripts/foundation.min.js"></script>
+  
+  <!-- Initialize JS Plugins -->
+  <script src="javascripts/app.js"></script>
+</body>
+</html>

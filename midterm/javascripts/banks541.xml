@@ -1,0 +1,4692 @@
+<?xml version="1.0"?>
+<ROWSET>
+<ROW>
+<Bank_Name>Vantage Point Bank</Bank_Name>
+<City>Horsham</City>
+<ST>PA</ST>
+<CERT>58531</CERT>
+<Acquiring_Institution>First Choice Bank</Acquiring_Institution>
+<Closing_Date>28 February 2014</Closing_Date>
+<Updated_Date>4 March 2014</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Millennium Bank, National Association </Bank_Name>
+<City>Sterling</City>
+<ST>VA</ST>
+<CERT>35096</CERT>
+<Acquiring_Institution>WashingtonFirst Bank</Acquiring_Institution>
+<Closing_Date>28 February 2014</Closing_Date>
+<Updated_Date>4 March 2014</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Syringa Bank</Bank_Name>
+<City>Boise</City>
+<ST>ID</ST>
+<CERT>34296</CERT>
+<Acquiring_Institution>Sunwest Bank</Acquiring_Institution>
+<Closing_Date>31 January 2014</Closing_Date>
+<Updated_Date>6 February 2014</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Bank of Union</Bank_Name>
+<City>El Reno</City>
+<ST>OK</ST>
+<CERT>17967</CERT>
+<Acquiring_Institution>BancFirst</Acquiring_Institution>
+<Closing_Date>24 January 2014</Closing_Date>
+<Updated_Date>14 February 2014</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>DuPage National Bank</Bank_Name>
+<City>West Chicago</City>
+<ST>IL</ST>
+<CERT>5732</CERT>
+<Acquiring_Institution>Republic Bank of Chicago</Acquiring_Institution>
+<Closing_Date>17 January 2014</Closing_Date>
+<Updated_Date>14 February 2014</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Texas Community Bank, National Association</Bank_Name>
+<City>The Woodlands</City>
+<ST>TX</ST>
+<CERT>57431</CERT>
+<Acquiring_Institution>Spirit of Texas Bank, SSB</Acquiring_Institution>
+<Closing_Date>13 December 2013</Closing_Date>
+<Updated_Date>6 February 2014</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Jackson County</Bank_Name>
+<City>Graceville</City>
+<ST>FL</ST>
+<CERT>14794</CERT>
+<Acquiring_Institution>First Federal Bank of Florida</Acquiring_Institution>
+<Closing_Date>30 October 2013</Closing_Date>
+<Updated_Date>6 February 2014</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First National Bank also operating as The National Bank of El Paso</Bank_Name>
+<City>Edinburg</City>
+<ST>TX</ST>
+<CERT>14318</CERT>
+<Acquiring_Institution>PlainsCapital Bank</Acquiring_Institution>
+<Closing_Date>13 September 2013</Closing_Date>
+<Updated_Date>1 November 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Community&apos;s Bank</Bank_Name>
+<City>Bridgeport</City>
+<ST>CT</ST>
+<CERT>57041</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>13 September 2013</Closing_Date>
+<Updated_Date>20 December 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Sunrise Bank of Arizona</Bank_Name>
+<City>Phoenix</City>
+<ST>AZ</ST>
+<CERT>34707</CERT>
+<Acquiring_Institution>First Fidelity Bank, National Association</Acquiring_Institution>
+<Closing_Date>23 August 2013</Closing_Date>
+<Updated_Date>1 November 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community South Bank</Bank_Name>
+<City>Parsons</City>
+<ST>TN</ST>
+<CERT>19849</CERT>
+<Acquiring_Institution>CB&amp;S Bank, Inc.</Acquiring_Institution>
+<Closing_Date>23 August 2013</Closing_Date>
+<Updated_Date>1 November 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Wausau</Bank_Name>
+<City>Wausau</City>
+<ST>WI</ST>
+<CERT>35016</CERT>
+<Acquiring_Institution>Nicolet National Bank</Acquiring_Institution>
+<Closing_Date>9 August 2013</Closing_Date>
+<Updated_Date>24 October 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Community Bank of Southwest Florida (also operating as Community Bank of Cape Coral)</Bank_Name>
+<City>Fort Myers</City>
+<ST>FL</ST>
+<CERT>34943</CERT>
+<Acquiring_Institution>C1 Bank</Acquiring_Institution>
+<Closing_Date>2 August 2013</Closing_Date>
+<Updated_Date>24 October 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Mountain National Bank</Bank_Name>
+<City>Sevierville</City>
+<ST>TN</ST>
+<CERT>34789</CERT>
+<Acquiring_Institution>First Tennessee Bank, National Association</Acquiring_Institution>
+<Closing_Date>7 June 2013</Closing_Date>
+<Updated_Date>12 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>1st Commerce Bank</Bank_Name>
+<City>North Las Vegas</City>
+<ST>NV</ST>
+<CERT>58358</CERT>
+<Acquiring_Institution>Plaza Bank</Acquiring_Institution>
+<Closing_Date>6 June 2013</Closing_Date>
+<Updated_Date>12 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Banks of Wisconsin d/b/a Bank of Kenosha</Bank_Name>
+<City>Kenosha</City>
+<ST>WI</ST>
+<CERT>35386</CERT>
+<Acquiring_Institution>North Shore Bank, FSB</Acquiring_Institution>
+<Closing_Date>31 May 2013</Closing_Date>
+<Updated_Date>29 October 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Central Arizona Bank</Bank_Name>
+<City>Scottsdale</City>
+<ST>AZ</ST>
+<CERT>34527</CERT>
+<Acquiring_Institution>Western State Bank</Acquiring_Institution>
+<Closing_Date>14 May 2013</Closing_Date>
+<Updated_Date>12 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Sunrise Bank</Bank_Name>
+<City>Valdosta</City>
+<ST>GA</ST>
+<CERT>58185</CERT>
+<Acquiring_Institution>Synovus Bank</Acquiring_Institution>
+<Closing_Date>10 May 2013</Closing_Date>
+<Updated_Date>12 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Pisgah Community Bank</Bank_Name>
+<City>Asheville</City>
+<ST>NC</ST>
+<CERT>58701</CERT>
+<Acquiring_Institution>Capital Bank, N.A.</Acquiring_Institution>
+<Closing_Date>10 May 2013</Closing_Date>
+<Updated_Date>5 August 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Douglas County Bank</Bank_Name>
+<City>Douglasville</City>
+<ST>GA</ST>
+<CERT>21649</CERT>
+<Acquiring_Institution>Hamilton State Bank</Acquiring_Institution>
+<Closing_Date>26 April 2013</Closing_Date>
+<Updated_Date>12 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Parkway Bank</Bank_Name>
+<City>Lenoir</City>
+<ST>NC</ST>
+<CERT>57158</CERT>
+<Acquiring_Institution>CertusBank, National Association</Acquiring_Institution>
+<Closing_Date>26 April 2013</Closing_Date>
+<Updated_Date>12 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Chipola Community Bank</Bank_Name>
+<City>Marianna</City>
+<ST>FL</ST>
+<CERT>58034</CERT>
+<Acquiring_Institution>First Federal Bank of Florida</Acquiring_Institution>
+<Closing_Date>19 April 2013</Closing_Date>
+<Updated_Date>12 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Heritage Bank of North Florida</Bank_Name>
+<City>Orange Park</City>
+<ST>FL</ST>
+<CERT>26680</CERT>
+<Acquiring_Institution>FirstAtlantic Bank</Acquiring_Institution>
+<Closing_Date>19 April 2013</Closing_Date>
+<Updated_Date>12 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Federal Bank</Bank_Name>
+<City>Lexington</City>
+<ST>KY</ST>
+<CERT>29594</CERT>
+<Acquiring_Institution>Your Community Bank</Acquiring_Institution>
+<Closing_Date>19 April 2013</Closing_Date>
+<Updated_Date>12 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Gold Canyon Bank</Bank_Name>
+<City>Gold Canyon</City>
+<ST>AZ</ST>
+<CERT>58066</CERT>
+<Acquiring_Institution>First Scottsdale Bank, National Association</Acquiring_Institution>
+<Closing_Date>5 April 2013</Closing_Date>
+<Updated_Date>12 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Frontier Bank</Bank_Name>
+<City>LaGrange</City>
+<ST>GA</ST>
+<CERT>16431</CERT>
+<Acquiring_Institution>HeritageBank of the South</Acquiring_Institution>
+<Closing_Date>8 March 2013</Closing_Date>
+<Updated_Date>14 February 2014</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Covenant Bank</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>22476</CERT>
+<Acquiring_Institution>Liberty Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>15 February 2013</Closing_Date>
+<Updated_Date>4 March 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>1st Regents Bank</Bank_Name>
+<City>Andover</City>
+<ST>MN</ST>
+<CERT>57157</CERT>
+<Acquiring_Institution>First Minnesota Bank</Acquiring_Institution>
+<Closing_Date>18 January 2013</Closing_Date>
+<Updated_Date>28 February 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Westside Community Bank</Bank_Name>
+<City>University Place</City>
+<ST>WA</ST>
+<CERT>33997</CERT>
+<Acquiring_Institution>Sunwest Bank</Acquiring_Institution>
+<Closing_Date>11 January 2013</Closing_Date>
+<Updated_Date>24 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community Bank of the Ozarks</Bank_Name>
+<City>Sunrise Beach</City>
+<ST>MO</ST>
+<CERT>27331</CERT>
+<Acquiring_Institution>Bank of Sullivan</Acquiring_Institution>
+<Closing_Date>14 December 2012</Closing_Date>
+<Updated_Date>24 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Hometown Community Bank</Bank_Name>
+<City>Braselton</City>
+<ST>GA</ST>
+<CERT>57928</CERT>
+<Acquiring_Institution>CertusBank, National Association</Acquiring_Institution>
+<Closing_Date>16 November 2012</Closing_Date>
+<Updated_Date>25 November 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Citizens First National Bank</Bank_Name>
+<City>Princeton</City>
+<ST>IL</ST>
+<CERT>3731</CERT>
+<Acquiring_Institution>Heartland Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>2 November 2012</Closing_Date>
+<Updated_Date>22 November 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Heritage Bank of Florida</Bank_Name>
+<City>Lutz</City>
+<ST>FL</ST>
+<CERT>35009</CERT>
+<Acquiring_Institution>Centennial Bank</Acquiring_Institution>
+<Closing_Date>2 November 2012</Closing_Date>
+<Updated_Date>21 November 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>NOVA Bank</Bank_Name>
+<City>Berwyn</City>
+<ST>PA</ST>
+<CERT>27148</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>26 October 2012</Closing_Date>
+<Updated_Date>24 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Excel Bank</Bank_Name>
+<City>Sedalia</City>
+<ST>MO</ST>
+<CERT>19189</CERT>
+<Acquiring_Institution>Simmons First National Bank</Acquiring_Institution>
+<Closing_Date>19 October 2012</Closing_Date>
+<Updated_Date>22 October 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First East Side Savings Bank</Bank_Name>
+<City>Tamarac</City>
+<ST>FL</ST>
+<CERT>28144</CERT>
+<Acquiring_Institution>Stearns Bank N.A.</Acquiring_Institution>
+<Closing_Date>19 October 2012</Closing_Date>
+<Updated_Date>22 October 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>GulfSouth Private Bank</Bank_Name>
+<City>Destin</City>
+<ST>FL</ST>
+<CERT>58073</CERT>
+<Acquiring_Institution>SmartBank</Acquiring_Institution>
+<Closing_Date>19 October 2012</Closing_Date>
+<Updated_Date>22 October 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First United Bank</Bank_Name>
+<City>Crete</City>
+<ST>IL</ST>
+<CERT>20685</CERT>
+<Acquiring_Institution>Old Plank Trail Community Bank, National Association</Acquiring_Institution>
+<Closing_Date>28 September 2012</Closing_Date>
+<Updated_Date>1 November 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Truman Bank</Bank_Name>
+<City>St. Louis</City>
+<ST>MO</ST>
+<CERT>27316</CERT>
+<Acquiring_Institution>Simmons First National Bank</Acquiring_Institution>
+<Closing_Date>14 September 2012</Closing_Date>
+<Updated_Date>17 December 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Commercial Bank</Bank_Name>
+<City>Bloomington</City>
+<ST>MN</ST>
+<CERT>35246</CERT>
+<Acquiring_Institution>Republic Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>7 September 2012</Closing_Date>
+<Updated_Date>17 December 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Waukegan Savings Bank</Bank_Name>
+<City>Waukegan</City>
+<ST>IL</ST>
+<CERT>28243</CERT>
+<Acquiring_Institution>First Midwest Bank</Acquiring_Institution>
+<Closing_Date>3 August 2012</Closing_Date>
+<Updated_Date>30 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Jasper Banking Company</Bank_Name>
+<City>Jasper</City>
+<ST>GA</ST>
+<CERT>16240</CERT>
+<Acquiring_Institution>Stearns Bank N.A.</Acquiring_Institution>
+<Closing_Date>27 July 2012</Closing_Date>
+<Updated_Date>30 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Second Federal Savings and Loan Association of Chicago</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>27986</CERT>
+<Acquiring_Institution>Hinsdale Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>20 July 2012</Closing_Date>
+<Updated_Date>14 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Heartland Bank</Bank_Name>
+<City>Leawood</City>
+<ST>KS</ST>
+<CERT>1361</CERT>
+<Acquiring_Institution>Metcalf Bank</Acquiring_Institution>
+<Closing_Date>20 July 2012</Closing_Date>
+<Updated_Date>30 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Cherokee State Bank</Bank_Name>
+<City>Woodstock</City>
+<ST>GA</ST>
+<CERT>32711</CERT>
+<Acquiring_Institution>Community &amp; Southern Bank</Acquiring_Institution>
+<Closing_Date>20 July 2012</Closing_Date>
+<Updated_Date>30 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Georgia Trust Bank</Bank_Name>
+<City>Buford</City>
+<ST>GA</ST>
+<CERT>57847</CERT>
+<Acquiring_Institution>Community &amp; Southern Bank</Acquiring_Institution>
+<Closing_Date>20 July 2012</Closing_Date>
+<Updated_Date>29 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Royal Palm Bank of Florida</Bank_Name>
+<City>Naples</City>
+<ST>FL</ST>
+<CERT>57096</CERT>
+<Acquiring_Institution>First National Bank of the Gulf Coast</Acquiring_Institution>
+<Closing_Date>20 July 2012</Closing_Date>
+<Updated_Date>29 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Glasgow Savings Bank</Bank_Name>
+<City>Glasgow</City>
+<ST>MO</ST>
+<CERT>1056</CERT>
+<Acquiring_Institution>Regional Missouri Bank</Acquiring_Institution>
+<Closing_Date>13 July 2012</Closing_Date>
+<Updated_Date>29 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Montgomery Bank &amp; Trust</Bank_Name>
+<City>Ailey</City>
+<ST>GA</ST>
+<CERT>19498</CERT>
+<Acquiring_Institution>Ameris Bank</Acquiring_Institution>
+<Closing_Date>6 July 2012</Closing_Date>
+<Updated_Date>31 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Farmers Bank of Lynchburg</Bank_Name>
+<City>Lynchburg</City>
+<ST>TN</ST>
+<CERT>1690</CERT>
+<Acquiring_Institution>Clayton Bank and Trust</Acquiring_Institution>
+<Closing_Date>15 June 2012</Closing_Date>
+<Updated_Date>27 June 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Security Exchange Bank</Bank_Name>
+<City>Marietta</City>
+<ST>GA</ST>
+<CERT>35299</CERT>
+<Acquiring_Institution>Fidelity Bank</Acquiring_Institution>
+<Closing_Date>15 June 2012</Closing_Date>
+<Updated_Date>10 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Putnam State Bank</Bank_Name>
+<City>Palatka</City>
+<ST>FL</ST>
+<CERT>27405</CERT>
+<Acquiring_Institution>Harbor Community Bank</Acquiring_Institution>
+<Closing_Date>15 June 2012</Closing_Date>
+<Updated_Date>10 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Waccamaw Bank</Bank_Name>
+<City>Whiteville</City>
+<ST>NC</ST>
+<CERT>34515</CERT>
+<Acquiring_Institution>First Community Bank</Acquiring_Institution>
+<Closing_Date>8 June 2012</Closing_Date>
+<Updated_Date>14 June 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Farmers&apos; and Traders&apos; State Bank</Bank_Name>
+<City>Shabbona</City>
+<ST>IL</ST>
+<CERT>9257</CERT>
+<Acquiring_Institution>First State Bank</Acquiring_Institution>
+<Closing_Date>8 June 2012</Closing_Date>
+<Updated_Date>10 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Carolina Federal Savings Bank</Bank_Name>
+<City>Charleston</City>
+<ST>SC</ST>
+<CERT>35372</CERT>
+<Acquiring_Institution>Bank of North Carolina</Acquiring_Institution>
+<Closing_Date>8 June 2012</Closing_Date>
+<Updated_Date>31 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Capital Bank</Bank_Name>
+<City>Kingfisher</City>
+<ST>OK</ST>
+<CERT>416</CERT>
+<Acquiring_Institution>F &amp; M Bank</Acquiring_Institution>
+<Closing_Date>8 June 2012</Closing_Date>
+<Updated_Date>10 June 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Alabama Trust Bank, National Association</Bank_Name>
+<City>Sylacauga</City>
+<ST>AL</ST>
+<CERT>35224</CERT>
+<Acquiring_Institution>Southern States Bank</Acquiring_Institution>
+<Closing_Date>18 May 2012</Closing_Date>
+<Updated_Date>20 May 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Security Bank, National Association</Bank_Name>
+<City>North Lauderdale</City>
+<ST>FL</ST>
+<CERT>23156</CERT>
+<Acquiring_Institution>Banesco USA</Acquiring_Institution>
+<Closing_Date>4 May 2012</Closing_Date>
+<Updated_Date>31 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Palm Desert National Bank</Bank_Name>
+<City>Palm Desert</City>
+<ST>CA</ST>
+<CERT>23632</CERT>
+<Acquiring_Institution>Pacific Premier Bank</Acquiring_Institution>
+<Closing_Date>27 April 2012</Closing_Date>
+<Updated_Date>17 May 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Plantation Federal Bank</Bank_Name>
+<City>Pawleys Island</City>
+<ST>SC</ST>
+<CERT>32503</CERT>
+<Acquiring_Institution>First Federal Bank</Acquiring_Institution>
+<Closing_Date>27 April 2012</Closing_Date>
+<Updated_Date>17 May 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Inter Savings Bank, fsb D/B/A InterBank, fsb</Bank_Name>
+<City>Maple Grove</City>
+<ST>MN</ST>
+<CERT>31495</CERT>
+<Acquiring_Institution>Great Southern Bank</Acquiring_Institution>
+<Closing_Date>27 April 2012</Closing_Date>
+<Updated_Date>17 May 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>HarVest Bank of Maryland</Bank_Name>
+<City>Gaithersburg</City>
+<ST>MD</ST>
+<CERT>57766</CERT>
+<Acquiring_Institution>Sonabank</Acquiring_Institution>
+<Closing_Date>27 April 2012</Closing_Date>
+<Updated_Date>17 May 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of the Eastern Shore</Bank_Name>
+<City>Cambridge</City>
+<ST>MD</ST>
+<CERT>26759</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>27 April 2012</Closing_Date>
+<Updated_Date>17 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Fort Lee Federal Savings Bank, FSB</Bank_Name>
+<City>Fort Lee</City>
+<ST>NJ</ST>
+<CERT>35527</CERT>
+<Acquiring_Institution>Alma Bank</Acquiring_Institution>
+<Closing_Date>20 April 2012</Closing_Date>
+<Updated_Date>17 May 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Fidelity Bank</Bank_Name>
+<City>Dearborn</City>
+<ST>MI</ST>
+<CERT>33883</CERT>
+<Acquiring_Institution>The Huntington National Bank</Acquiring_Institution>
+<Closing_Date>30 March 2012</Closing_Date>
+<Updated_Date>4 February 2014</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Premier Bank</Bank_Name>
+<City>Wilmette</City>
+<ST>IL</ST>
+<CERT>35419</CERT>
+<Acquiring_Institution>International Bank of Chicago</Acquiring_Institution>
+<Closing_Date>23 March 2012</Closing_Date>
+<Updated_Date>17 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Covenant Bank &amp; Trust</Bank_Name>
+<City>Rock Spring</City>
+<ST>GA</ST>
+<CERT>58068</CERT>
+<Acquiring_Institution>Stearns Bank, N.A.</Acquiring_Institution>
+<Closing_Date>23 March 2012</Closing_Date>
+<Updated_Date>31 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>New City Bank</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>57597</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>9 March 2012</Closing_Date>
+<Updated_Date>29 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Global Commerce Bank</Bank_Name>
+<City>Doraville</City>
+<ST>GA</ST>
+<CERT>34046</CERT>
+<Acquiring_Institution>Metro City Bank</Acquiring_Institution>
+<Closing_Date>2 March 2012</Closing_Date>
+<Updated_Date>31 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Home Savings of America</Bank_Name>
+<City>Little Falls</City>
+<ST>MN</ST>
+<CERT>29178</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>24 February 2012</Closing_Date>
+<Updated_Date>17 December 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Central Bank of Georgia</Bank_Name>
+<City>Ellaville</City>
+<ST>GA</ST>
+<CERT>5687</CERT>
+<Acquiring_Institution>Ameris Bank</Acquiring_Institution>
+<Closing_Date>24 February 2012</Closing_Date>
+<Updated_Date>9 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>SCB Bank</Bank_Name>
+<City>Shelbyville</City>
+<ST>IN</ST>
+<CERT>29761</CERT>
+<Acquiring_Institution>First Merchants Bank, National Association</Acquiring_Institution>
+<Closing_Date>10 February 2012</Closing_Date>
+<Updated_Date>25 March 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Charter National Bank and Trust</Bank_Name>
+<City>Hoffman Estates</City>
+<ST>IL</ST>
+<CERT>23187</CERT>
+<Acquiring_Institution>Barrington Bank &amp; Trust Company, National Association</Acquiring_Institution>
+<Closing_Date>10 February 2012</Closing_Date>
+<Updated_Date>25 March 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>BankEast</Bank_Name>
+<City>Knoxville</City>
+<ST>TN</ST>
+<CERT>19869</CERT>
+<Acquiring_Institution>U.S. Bank, N.A.</Acquiring_Institution>
+<Closing_Date>27 January 2012</Closing_Date>
+<Updated_Date>8 March 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Patriot Bank Minnesota</Bank_Name>
+<City>Forest Lake</City>
+<ST>MN</ST>
+<CERT>34823</CERT>
+<Acquiring_Institution>First Resource Bank</Acquiring_Institution>
+<Closing_Date>27 January 2012</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Tennessee Commerce Bank</Bank_Name>
+<City>Franklin</City>
+<ST>TN</ST>
+<CERT>35296</CERT>
+<Acquiring_Institution>Republic Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>27 January 2012</Closing_Date>
+<Updated_Date>20 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Guaranty Bank and Trust Company of Jacksonville</Bank_Name>
+<City>Jacksonville</City>
+<ST>FL</ST>
+<CERT>16579</CERT>
+<Acquiring_Institution>CenterState Bank of Florida, N.A.</Acquiring_Institution>
+<Closing_Date>27 January 2012</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>American Eagle Savings Bank</Bank_Name>
+<City>Boothwyn</City>
+<ST>PA</ST>
+<CERT>31581</CERT>
+<Acquiring_Institution>Capital Bank, N.A.</Acquiring_Institution>
+<Closing_Date>20 January 2012</Closing_Date>
+<Updated_Date>25 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The First State Bank</Bank_Name>
+<City>Stockbridge</City>
+<ST>GA</ST>
+<CERT>19252</CERT>
+<Acquiring_Institution>Hamilton State Bank</Acquiring_Institution>
+<Closing_Date>20 January 2012</Closing_Date>
+<Updated_Date>25 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Central Florida State Bank</Bank_Name>
+<City>Belleview</City>
+<ST>FL</ST>
+<CERT>57186</CERT>
+<Acquiring_Institution>CenterState Bank of Florida, N.A.</Acquiring_Institution>
+<Closing_Date>20 January 2012</Closing_Date>
+<Updated_Date>25 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Western National Bank</Bank_Name>
+<City>Phoenix</City>
+<ST>AZ</ST>
+<CERT>57917</CERT>
+<Acquiring_Institution>Washington Federal</Acquiring_Institution>
+<Closing_Date>16 December 2011</Closing_Date>
+<Updated_Date>12 November 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Premier Community Bank of the Emerald Coast</Bank_Name>
+<City>Crestview</City>
+<ST>FL</ST>
+<CERT>58343</CERT>
+<Acquiring_Institution>Summit Bank</Acquiring_Institution>
+<Closing_Date>16 December 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Central Progressive Bank</Bank_Name>
+<City>Lacombe</City>
+<ST>LA</ST>
+<CERT>19657</CERT>
+<Acquiring_Institution>First NBC Bank</Acquiring_Institution>
+<Closing_Date>18 November 2011</Closing_Date>
+<Updated_Date>13 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Polk County Bank</Bank_Name>
+<City>Johnston</City>
+<ST>IA</ST>
+<CERT>14194</CERT>
+<Acquiring_Institution>Grinnell State Bank</Acquiring_Institution>
+<Closing_Date>18 November 2011</Closing_Date>
+<Updated_Date>15 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community Bank of Rockmart</Bank_Name>
+<City>Rockmart</City>
+<ST>GA</ST>
+<CERT>57860</CERT>
+<Acquiring_Institution>Century Bank of Georgia</Acquiring_Institution>
+<Closing_Date>10 November 2011</Closing_Date>
+<Updated_Date>13 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>SunFirst Bank</Bank_Name>
+<City>Saint George</City>
+<ST>UT</ST>
+<CERT>57087</CERT>
+<Acquiring_Institution>Cache Valley Bank</Acquiring_Institution>
+<Closing_Date>4 November 2011</Closing_Date>
+<Updated_Date>16 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Mid City Bank, Inc.</Bank_Name>
+<City>Omaha</City>
+<ST>NE</ST>
+<CERT>19397</CERT>
+<Acquiring_Institution>Premier Bank</Acquiring_Institution>
+<Closing_Date>4 November 2011</Closing_Date>
+<Updated_Date>15 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>All American Bank</Bank_Name>
+<City>Des Plaines</City>
+<ST>IL</ST>
+<CERT>57759</CERT>
+<Acquiring_Institution>International Bank of Chicago</Acquiring_Institution>
+<Closing_Date>28 October 2011</Closing_Date>
+<Updated_Date>15 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community Banks of Colorado</Bank_Name>
+<City>Greenwood Village</City>
+<ST>CO</ST>
+<CERT>21132</CERT>
+<Acquiring_Institution>Bank Midwest, N.A.</Acquiring_Institution>
+<Closing_Date>21 October 2011</Closing_Date>
+<Updated_Date>2 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community Capital Bank</Bank_Name>
+<City>Jonesboro</City>
+<ST>GA</ST>
+<CERT>57036</CERT>
+<Acquiring_Institution>State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>21 October 2011</Closing_Date>
+<Updated_Date>8 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Decatur First Bank</Bank_Name>
+<City>Decatur</City>
+<ST>GA</ST>
+<CERT>34392</CERT>
+<Acquiring_Institution>Fidelity Bank</Acquiring_Institution>
+<Closing_Date>21 October 2011</Closing_Date>
+<Updated_Date>8 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Old Harbor Bank</Bank_Name>
+<City>Clearwater</City>
+<ST>FL</ST>
+<CERT>57537</CERT>
+<Acquiring_Institution>1st United Bank</Acquiring_Institution>
+<Closing_Date>21 October 2011</Closing_Date>
+<Updated_Date>8 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Country Bank</Bank_Name>
+<City>Aledo</City>
+<ST>IL</ST>
+<CERT>35395</CERT>
+<Acquiring_Institution>Blackhawk Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>14 October 2011</Closing_Date>
+<Updated_Date>15 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First State Bank</Bank_Name>
+<City>Cranford</City>
+<ST>NJ</ST>
+<CERT>58046</CERT>
+<Acquiring_Institution>Northfield Bank</Acquiring_Institution>
+<Closing_Date>14 October 2011</Closing_Date>
+<Updated_Date>8 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Blue Ridge Savings Bank, Inc.</Bank_Name>
+<City>Asheville</City>
+<ST>NC</ST>
+<CERT>32347</CERT>
+<Acquiring_Institution>Bank of North Carolina</Acquiring_Institution>
+<Closing_Date>14 October 2011</Closing_Date>
+<Updated_Date>8 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Piedmont Community Bank</Bank_Name>
+<City>Gray</City>
+<ST>GA</ST>
+<CERT>57256</CERT>
+<Acquiring_Institution>State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>14 October 2011</Closing_Date>
+<Updated_Date>22 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Sun Security Bank</Bank_Name>
+<City>Ellington</City>
+<ST>MO</ST>
+<CERT>20115</CERT>
+<Acquiring_Institution>Great Southern Bank</Acquiring_Institution>
+<Closing_Date>7 October 2011</Closing_Date>
+<Updated_Date>7 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The RiverBank</Bank_Name>
+<City>Wyoming</City>
+<ST>MN</ST>
+<CERT>10216</CERT>
+<Acquiring_Institution>Central Bank</Acquiring_Institution>
+<Closing_Date>7 October 2011</Closing_Date>
+<Updated_Date>7 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First International Bank</Bank_Name>
+<City>Plano</City>
+<ST>TX</ST>
+<CERT>33513</CERT>
+<Acquiring_Institution>American First National Bank</Acquiring_Institution>
+<Closing_Date>30 September 2011</Closing_Date>
+<Updated_Date>9 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Citizens Bank of Northern California</Bank_Name>
+<City>Nevada City</City>
+<ST>CA</ST>
+<CERT>33983</CERT>
+<Acquiring_Institution>Tri Counties Bank</Acquiring_Institution>
+<Closing_Date>23 September 2011</Closing_Date>
+<Updated_Date>9 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of the Commonwealth</Bank_Name>
+<City>Norfolk</City>
+<ST>VA</ST>
+<CERT>20408</CERT>
+<Acquiring_Institution>Southern Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>23 September 2011</Closing_Date>
+<Updated_Date>9 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The First National Bank of Florida</Bank_Name>
+<City>Milton</City>
+<ST>FL</ST>
+<CERT>25155</CERT>
+<Acquiring_Institution>CharterBank</Acquiring_Institution>
+<Closing_Date>9 September 2011</Closing_Date>
+<Updated_Date>6 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>CreekSide Bank</Bank_Name>
+<City>Woodstock</City>
+<ST>GA</ST>
+<CERT>58226</CERT>
+<Acquiring_Institution>Georgia Commerce Bank</Acquiring_Institution>
+<Closing_Date>2 September 2011</Closing_Date>
+<Updated_Date>6 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Patriot Bank of Georgia</Bank_Name>
+<City>Cumming</City>
+<ST>GA</ST>
+<CERT>58273</CERT>
+<Acquiring_Institution>Georgia Commerce Bank</Acquiring_Institution>
+<Closing_Date>2 September 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Choice Bank</Bank_Name>
+<City>Geneva</City>
+<ST>IL</ST>
+<CERT>57212</CERT>
+<Acquiring_Institution>Inland Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>19 August 2011</Closing_Date>
+<Updated_Date>15 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Southern National Bank</Bank_Name>
+<City>Statesboro</City>
+<ST>GA</ST>
+<CERT>57239</CERT>
+<Acquiring_Institution>Heritage Bank of the South</Acquiring_Institution>
+<Closing_Date>19 August 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Lydian Private Bank</Bank_Name>
+<City>Palm Beach</City>
+<ST>FL</ST>
+<CERT>35356</CERT>
+<Acquiring_Institution>Sabadell United Bank, N.A.</Acquiring_Institution>
+<Closing_Date>19 August 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Public Savings Bank</Bank_Name>
+<City>Huntingdon Valley</City>
+<ST>PA</ST>
+<CERT>34130</CERT>
+<Acquiring_Institution>Capital Bank, N.A.</Acquiring_Institution>
+<Closing_Date>18 August 2011</Closing_Date>
+<Updated_Date>15 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The First National Bank of Olathe</Bank_Name>
+<City>Olathe</City>
+<ST>KS</ST>
+<CERT>4744</CERT>
+<Acquiring_Institution>Enterprise Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>12 August 2011</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Whitman</Bank_Name>
+<City>Colfax</City>
+<ST>WA</ST>
+<CERT>22528</CERT>
+<Acquiring_Institution>Columbia State Bank</Acquiring_Institution>
+<Closing_Date>5 August 2011</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Shorewood</Bank_Name>
+<City>Shorewood</City>
+<ST>IL</ST>
+<CERT>22637</CERT>
+<Acquiring_Institution>Heartland Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>5 August 2011</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Integra Bank National Association</Bank_Name>
+<City>Evansville</City>
+<ST>IN</ST>
+<CERT>4392</CERT>
+<Acquiring_Institution>Old National Bank</Acquiring_Institution>
+<Closing_Date>29 July 2011</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>BankMeridian, N.A.</Bank_Name>
+<City>Columbia</City>
+<ST>SC</ST>
+<CERT>58222</CERT>
+<Acquiring_Institution>SCBT National Association</Acquiring_Institution>
+<Closing_Date>29 July 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Virginia Business Bank</Bank_Name>
+<City>Richmond</City>
+<ST>VA</ST>
+<CERT>58283</CERT>
+<Acquiring_Institution>Xenith Bank</Acquiring_Institution>
+<Closing_Date>29 July 2011</Closing_Date>
+<Updated_Date>9 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Choice</Bank_Name>
+<City>Greeley</City>
+<ST>CO</ST>
+<CERT>2994</CERT>
+<Acquiring_Institution>Bank Midwest, N.A.</Acquiring_Institution>
+<Closing_Date>22 July 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>LandMark Bank of Florida</Bank_Name>
+<City>Sarasota</City>
+<ST>FL</ST>
+<CERT>35244</CERT>
+<Acquiring_Institution>American Momentum Bank</Acquiring_Institution>
+<Closing_Date>22 July 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Southshore Community Bank</Bank_Name>
+<City>Apollo Beach</City>
+<ST>FL</ST>
+<CERT>58056</CERT>
+<Acquiring_Institution>American Momentum Bank</Acquiring_Institution>
+<Closing_Date>22 July 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Summit Bank</Bank_Name>
+<City>Prescott</City>
+<ST>AZ</ST>
+<CERT>57442</CERT>
+<Acquiring_Institution>The Foothills Bank</Acquiring_Institution>
+<Closing_Date>15 July 2011</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Peoples Bank</Bank_Name>
+<City>Port St. Lucie</City>
+<ST>FL</ST>
+<CERT>34870</CERT>
+<Acquiring_Institution>Premier American Bank, N.A.</Acquiring_Institution>
+<Closing_Date>15 July 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>High Trust Bank</Bank_Name>
+<City>Stockbridge</City>
+<ST>GA</ST>
+<CERT>19554</CERT>
+<Acquiring_Institution>Ameris Bank</Acquiring_Institution>
+<Closing_Date>15 July 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>One Georgia Bank</Bank_Name>
+<City>Atlanta</City>
+<ST>GA</ST>
+<CERT>58238</CERT>
+<Acquiring_Institution>Ameris Bank</Acquiring_Institution>
+<Closing_Date>15 July 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Signature Bank</Bank_Name>
+<City>Windsor</City>
+<ST>CO</ST>
+<CERT>57835</CERT>
+<Acquiring_Institution>Points West Community Bank</Acquiring_Institution>
+<Closing_Date>8 July 2011</Closing_Date>
+<Updated_Date>26 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Colorado Capital Bank</Bank_Name>
+<City>Castle Rock</City>
+<ST>CO</ST>
+<CERT>34522</CERT>
+<Acquiring_Institution>First Citizens Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>8 July 2011</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Chicago Bank &amp; Trust</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>27935</CERT>
+<Acquiring_Institution>Northbrook Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>8 July 2011</Closing_Date>
+<Updated_Date>9 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Mountain Heritage Bank</Bank_Name>
+<City>Clayton</City>
+<ST>GA</ST>
+<CERT>57593</CERT>
+<Acquiring_Institution>First American Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>24 June 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Commercial Bank of Tampa Bay</Bank_Name>
+<City>Tampa</City>
+<ST>FL</ST>
+<CERT>27583</CERT>
+<Acquiring_Institution>Stonegate Bank</Acquiring_Institution>
+<Closing_Date>17 June 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>McIntosh State Bank</Bank_Name>
+<City>Jackson</City>
+<ST>GA</ST>
+<CERT>19237</CERT>
+<Acquiring_Institution>Hamilton State Bank</Acquiring_Institution>
+<Closing_Date>17 June 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Atlantic Bank and Trust</Bank_Name>
+<City>Charleston</City>
+<ST>SC</ST>
+<CERT>58420</CERT>
+<Acquiring_Institution>First Citizens Bank and Trust Company, Inc.</Acquiring_Institution>
+<Closing_Date>3 June 2011</Closing_Date>
+<Updated_Date>31 July 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Heritage Bank</Bank_Name>
+<City>Snohomish</City>
+<ST>WA</ST>
+<CERT>23626</CERT>
+<Acquiring_Institution>Columbia State Bank</Acquiring_Institution>
+<Closing_Date>27 May 2011</Closing_Date>
+<Updated_Date>28 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Summit Bank</Bank_Name>
+<City>Burlington</City>
+<ST>WA</ST>
+<CERT>513</CERT>
+<Acquiring_Institution>Columbia State Bank</Acquiring_Institution>
+<Closing_Date>20 May 2011</Closing_Date>
+<Updated_Date>22 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Georgia Banking Company</Bank_Name>
+<City>Franklin</City>
+<ST>GA</ST>
+<CERT>57647</CERT>
+<Acquiring_Institution>CertusBank, National Association</Acquiring_Institution>
+<Closing_Date>20 May 2011</Closing_Date>
+<Updated_Date>13 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Atlantic Southern Bank</Bank_Name>
+<City>Macon</City>
+<ST>GA</ST>
+<CERT>57213</CERT>
+<Acquiring_Institution>CertusBank, National Association</Acquiring_Institution>
+<Closing_Date>20 May 2011</Closing_Date>
+<Updated_Date>31 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Coastal Bank</Bank_Name>
+<City>Cocoa Beach</City>
+<ST>FL</ST>
+<CERT>34898</CERT>
+<Acquiring_Institution>Florida Community Bank, a division of Premier American Bank, N.A.</Acquiring_Institution>
+<Closing_Date>6 May 2011</Closing_Date>
+<Updated_Date>30 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community Central Bank</Bank_Name>
+<City>Mount Clemens</City>
+<ST>MI</ST>
+<CERT>34234</CERT>
+<Acquiring_Institution>Talmer Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>29 April 2011</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Park Avenue Bank</Bank_Name>
+<City>Valdosta</City>
+<ST>GA</ST>
+<CERT>19797</CERT>
+<Acquiring_Institution>Bank of the Ozarks</Acquiring_Institution>
+<Closing_Date>29 April 2011</Closing_Date>
+<Updated_Date>30 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Choice Community Bank</Bank_Name>
+<City>Dallas</City>
+<ST>GA</ST>
+<CERT>58539</CERT>
+<Acquiring_Institution>Bank of the Ozarks</Acquiring_Institution>
+<Closing_Date>29 April 2011</Closing_Date>
+<Updated_Date>22 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Cortez Community Bank</Bank_Name>
+<City>Brooksville</City>
+<ST>FL</ST>
+<CERT>57625</CERT>
+<Acquiring_Institution>Florida Community Bank, a division of Premier American Bank, N.A.</Acquiring_Institution>
+<Closing_Date>29 April 2011</Closing_Date>
+<Updated_Date>30 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First National Bank of Central Florida</Bank_Name>
+<City>Winter Park</City>
+<ST>FL</ST>
+<CERT>26297</CERT>
+<Acquiring_Institution>Florida Community Bank, a division of Premier American Bank, N.A.</Acquiring_Institution>
+<Closing_Date>29 April 2011</Closing_Date>
+<Updated_Date>30 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Heritage Banking Group</Bank_Name>
+<City>Carthage</City>
+<ST>MS</ST>
+<CERT>14273</CERT>
+<Acquiring_Institution>Trustmark National Bank</Acquiring_Institution>
+<Closing_Date>15 April 2011</Closing_Date>
+<Updated_Date>30 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Rosemount National Bank</Bank_Name>
+<City>Rosemount</City>
+<ST>MN</ST>
+<CERT>24099</CERT>
+<Acquiring_Institution>Central Bank</Acquiring_Institution>
+<Closing_Date>15 April 2011</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Superior Bank</Bank_Name>
+<City>Birmingham</City>
+<ST>AL</ST>
+<CERT>17750</CERT>
+<Acquiring_Institution>Superior Bank, National Association</Acquiring_Institution>
+<Closing_Date>15 April 2011</Closing_Date>
+<Updated_Date>30 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Nexity Bank</Bank_Name>
+<City>Birmingham</City>
+<ST>AL</ST>
+<CERT>19794</CERT>
+<Acquiring_Institution>AloStar Bank of Commerce</Acquiring_Institution>
+<Closing_Date>15 April 2011</Closing_Date>
+<Updated_Date>4 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>New Horizons Bank</Bank_Name>
+<City>East Ellijay</City>
+<ST>GA</ST>
+<CERT>57705</CERT>
+<Acquiring_Institution>Citizens South Bank</Acquiring_Institution>
+<Closing_Date>15 April 2011</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bartow County Bank</Bank_Name>
+<City>Cartersville</City>
+<ST>GA</ST>
+<CERT>21495</CERT>
+<Acquiring_Institution>Hamilton State Bank</Acquiring_Institution>
+<Closing_Date>15 April 2011</Closing_Date>
+<Updated_Date>22 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Nevada Commerce Bank</Bank_Name>
+<City>Las Vegas</City>
+<ST>NV</ST>
+<CERT>35418</CERT>
+<Acquiring_Institution>City National Bank</Acquiring_Institution>
+<Closing_Date>8 April 2011</Closing_Date>
+<Updated_Date>9 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Western Springs National Bank and Trust</Bank_Name>
+<City>Western Springs</City>
+<ST>IL</ST>
+<CERT>10086</CERT>
+<Acquiring_Institution>Heartland Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>8 April 2011</Closing_Date>
+<Updated_Date>22 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Bank of Commerce</Bank_Name>
+<City>Wood Dale</City>
+<ST>IL</ST>
+<CERT>34292</CERT>
+<Acquiring_Institution>Advantage National Bank Group</Acquiring_Institution>
+<Closing_Date>25 March 2011</Closing_Date>
+<Updated_Date>22 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Legacy Bank</Bank_Name>
+<City>Milwaukee</City>
+<ST>WI</ST>
+<CERT>34818</CERT>
+<Acquiring_Institution>Seaway Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>11 March 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First National Bank of Davis</Bank_Name>
+<City>Davis</City>
+<ST>OK</ST>
+<CERT>4077</CERT>
+<Acquiring_Institution>The Pauls Valley National Bank</Acquiring_Institution>
+<Closing_Date>11 March 2011</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Valley Community Bank</Bank_Name>
+<City>St. Charles</City>
+<ST>IL</ST>
+<CERT>34187</CERT>
+<Acquiring_Institution>First State Bank</Acquiring_Institution>
+<Closing_Date>25 February 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>San Luis Trust Bank, FSB</Bank_Name>
+<City>San Luis Obispo</City>
+<ST>CA</ST>
+<CERT>34783</CERT>
+<Acquiring_Institution>First California Bank</Acquiring_Institution>
+<Closing_Date>18 February 2011</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Charter Oak Bank</Bank_Name>
+<City>Napa</City>
+<ST>CA</ST>
+<CERT>57855</CERT>
+<Acquiring_Institution>Bank of Marin</Acquiring_Institution>
+<Closing_Date>18 February 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Citizens Bank of Effingham</Bank_Name>
+<City>Springfield</City>
+<ST>GA</ST>
+<CERT>34601</CERT>
+<Acquiring_Institution>Heritage Bank of the South</Acquiring_Institution>
+<Closing_Date>18 February 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Habersham Bank</Bank_Name>
+<City>Clarkesville</City>
+<ST>GA</ST>
+<CERT>151</CERT>
+<Acquiring_Institution>SCBT National Association</Acquiring_Institution>
+<Closing_Date>18 February 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Canyon National Bank</Bank_Name>
+<City>Palm Springs</City>
+<ST>CA</ST>
+<CERT>34692</CERT>
+<Acquiring_Institution>Pacific Premier Bank</Acquiring_Institution>
+<Closing_Date>11 February 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Badger State Bank</Bank_Name>
+<City>Cassville</City>
+<ST>WI</ST>
+<CERT>13272</CERT>
+<Acquiring_Institution>Royal Bank</Acquiring_Institution>
+<Closing_Date>11 February 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Peoples State Bank</Bank_Name>
+<City>Hamtramck</City>
+<ST>MI</ST>
+<CERT>14939</CERT>
+<Acquiring_Institution>First Michigan Bank</Acquiring_Institution>
+<Closing_Date>11 February 2011</Closing_Date>
+<Updated_Date>22 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Sunshine State Community Bank</Bank_Name>
+<City>Port Orange</City>
+<ST>FL</ST>
+<CERT>35478</CERT>
+<Acquiring_Institution>Premier American Bank, N.A.</Acquiring_Institution>
+<Closing_Date>11 February 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community First Bank Chicago</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>57948</CERT>
+<Acquiring_Institution>Northbrook Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>4 February 2011</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>North Georgia Bank</Bank_Name>
+<City>Watkinsville</City>
+<ST>GA</ST>
+<CERT>35242</CERT>
+<Acquiring_Institution>BankSouth</Acquiring_Institution>
+<Closing_Date>4 February 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>American Trust Bank</Bank_Name>
+<City>Roswell</City>
+<ST>GA</ST>
+<CERT>57432</CERT>
+<Acquiring_Institution>Renasant Bank</Acquiring_Institution>
+<Closing_Date>4 February 2011</Closing_Date>
+<Updated_Date>31 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Community Bank</Bank_Name>
+<City>Taos</City>
+<ST>NM</ST>
+<CERT>12261</CERT>
+<Acquiring_Institution>U.S. Bank, N.A.</Acquiring_Institution>
+<Closing_Date>28 January 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>FirsTier Bank</Bank_Name>
+<City>Louisville</City>
+<ST>CO</ST>
+<CERT>57646</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>28 January 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Evergreen State Bank</Bank_Name>
+<City>Stoughton</City>
+<ST>WI</ST>
+<CERT>5328</CERT>
+<Acquiring_Institution>McFarland State Bank</Acquiring_Institution>
+<Closing_Date>28 January 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The First State Bank</Bank_Name>
+<City>Camargo</City>
+<ST>OK</ST>
+<CERT>2303</CERT>
+<Acquiring_Institution>Bank 7</Acquiring_Institution>
+<Closing_Date>28 January 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>United Western Bank</Bank_Name>
+<City>Denver</City>
+<ST>CO</ST>
+<CERT>31293</CERT>
+<Acquiring_Institution>First Citizens Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>21 January 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Bank of Asheville</Bank_Name>
+<City>Asheville</City>
+<ST>NC</ST>
+<CERT>34516</CERT>
+<Acquiring_Institution>First Bank</Acquiring_Institution>
+<Closing_Date>21 January 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>CommunitySouth Bank &amp; Trust</Bank_Name>
+<City>Easley</City>
+<ST>SC</ST>
+<CERT>57868</CERT>
+<Acquiring_Institution>CertusBank, National Association</Acquiring_Institution>
+<Closing_Date>21 January 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Enterprise Banking Company</Bank_Name>
+<City>McDonough</City>
+<ST>GA</ST>
+<CERT>19758</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>21 January 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Oglethorpe Bank</Bank_Name>
+<City>Brunswick</City>
+<ST>GA</ST>
+<CERT>57440</CERT>
+<Acquiring_Institution>Bank of the Ozarks</Acquiring_Institution>
+<Closing_Date>14 January 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Legacy Bank</Bank_Name>
+<City>Scottsdale</City>
+<ST>AZ</ST>
+<CERT>57820</CERT>
+<Acquiring_Institution>Enterprise Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>7 January 2011</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Commercial Bank of Florida</Bank_Name>
+<City>Orlando</City>
+<ST>FL</ST>
+<CERT>34965</CERT>
+<Acquiring_Institution>First Southern Bank</Acquiring_Institution>
+<Closing_Date>7 January 2011</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community National Bank</Bank_Name>
+<City>Lino Lakes</City>
+<ST>MN</ST>
+<CERT>23306</CERT>
+<Acquiring_Institution>Farmers &amp; Merchants Savings Bank</Acquiring_Institution>
+<Closing_Date>17 December 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Southern Bank</Bank_Name>
+<City>Batesville</City>
+<ST>AR</ST>
+<CERT>58052</CERT>
+<Acquiring_Institution>Southern Bank</Acquiring_Institution>
+<Closing_Date>17 December 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>United Americas Bank, N.A.</Bank_Name>
+<City>Atlanta</City>
+<ST>GA</ST>
+<CERT>35065</CERT>
+<Acquiring_Institution>State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>17 December 2010</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Appalachian Community Bank, FSB</Bank_Name>
+<City>McCaysville</City>
+<ST>GA</ST>
+<CERT>58495</CERT>
+<Acquiring_Institution>Peoples Bank of East Tennessee</Acquiring_Institution>
+<Closing_Date>17 December 2010</Closing_Date>
+<Updated_Date>31 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Chestatee State Bank</Bank_Name>
+<City>Dawsonville</City>
+<ST>GA</ST>
+<CERT>34578</CERT>
+<Acquiring_Institution>Bank of the Ozarks</Acquiring_Institution>
+<Closing_Date>17 December 2010</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Bank of Miami,N.A.</Bank_Name>
+<City>Coral Gables</City>
+<ST>FL</ST>
+<CERT>19040</CERT>
+<Acquiring_Institution>1st United Bank</Acquiring_Institution>
+<Closing_Date>17 December 2010</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Earthstar Bank</Bank_Name>
+<City>Southampton</City>
+<ST>PA</ST>
+<CERT>35561</CERT>
+<Acquiring_Institution>Polonia Bank</Acquiring_Institution>
+<Closing_Date>10 December 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Paramount Bank</Bank_Name>
+<City>Farmington Hills</City>
+<ST>MI</ST>
+<CERT>34673</CERT>
+<Acquiring_Institution>Level One Bank</Acquiring_Institution>
+<Closing_Date>10 December 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Banking Center</Bank_Name>
+<City>Burlington</City>
+<ST>WI</ST>
+<CERT>5287</CERT>
+<Acquiring_Institution>First Michigan Bank</Acquiring_Institution>
+<Closing_Date>19 November 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Allegiance Bank of North America</Bank_Name>
+<City>Bala Cynwyd</City>
+<ST>PA</ST>
+<CERT>35078</CERT>
+<Acquiring_Institution>VIST Bank</Acquiring_Institution>
+<Closing_Date>19 November 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Gulf State Community Bank</Bank_Name>
+<City>Carrabelle</City>
+<ST>FL</ST>
+<CERT>20340</CERT>
+<Acquiring_Institution>Centennial Bank</Acquiring_Institution>
+<Closing_Date>19 November 2010</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Copper Star Bank</Bank_Name>
+<City>Scottsdale</City>
+<ST>AZ</ST>
+<CERT>35463</CERT>
+<Acquiring_Institution>Stearns Bank, N.A.</Acquiring_Institution>
+<Closing_Date>12 November 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Darby Bank &amp; Trust Co.</Bank_Name>
+<City>Vidalia</City>
+<ST>GA</ST>
+<CERT>14580</CERT>
+<Acquiring_Institution>Ameris Bank</Acquiring_Institution>
+<Closing_Date>12 November 2010</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Tifton Banking Company</Bank_Name>
+<City>Tifton</City>
+<ST>GA</ST>
+<CERT>57831</CERT>
+<Acquiring_Institution>Ameris Bank</Acquiring_Institution>
+<Closing_Date>12 November 2010</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Vietnamese American Bank</Bank_Name>
+<City>Westminster</City>
+<ST>CA</ST>
+<CERT>57885</CERT>
+<Acquiring_Institution>Grandpoint Bank</Acquiring_Institution>
+<Closing_Date>5 November 2010</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Pierce Commercial Bank</Bank_Name>
+<City>Tacoma</City>
+<ST>WA</ST>
+<CERT>34411</CERT>
+<Acquiring_Institution>Heritage Bank</Acquiring_Institution>
+<Closing_Date>5 November 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Western Commercial Bank</Bank_Name>
+<City>Woodland Hills</City>
+<ST>CA</ST>
+<CERT>58087</CERT>
+<Acquiring_Institution>First California Bank</Acquiring_Institution>
+<Closing_Date>5 November 2010</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>K Bank</Bank_Name>
+<City>Randallstown</City>
+<ST>MD</ST>
+<CERT>31263</CERT>
+<Acquiring_Institution>Manufacturers and Traders Trust Company (M&amp;T Bank)</Acquiring_Institution>
+<Closing_Date>5 November 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Arizona Savings, A FSB</Bank_Name>
+<City>Scottsdale</City>
+<ST>AZ</ST>
+<CERT>32582</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>22 October 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Hillcrest Bank</Bank_Name>
+<City>Overland Park</City>
+<ST>KS</ST>
+<CERT>22173</CERT>
+<Acquiring_Institution>Hillcrest Bank, N.A.</Acquiring_Institution>
+<Closing_Date>22 October 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Suburban National Bank</Bank_Name>
+<City>Maywood</City>
+<ST>IL</ST>
+<CERT>16089</CERT>
+<Acquiring_Institution>Seaway Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>22 October 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The First National Bank of Barnesville</Bank_Name>
+<City>Barnesville</City>
+<ST>GA</ST>
+<CERT>2119</CERT>
+<Acquiring_Institution>United Bank</Acquiring_Institution>
+<Closing_Date>22 October 2010</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Gordon Bank</Bank_Name>
+<City>Gordon</City>
+<ST>GA</ST>
+<CERT>33904</CERT>
+<Acquiring_Institution>Morris Bank</Acquiring_Institution>
+<Closing_Date>22 October 2010</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Progress Bank of Florida</Bank_Name>
+<City>Tampa</City>
+<ST>FL</ST>
+<CERT>32251</CERT>
+<Acquiring_Institution>Bay Cities Bank</Acquiring_Institution>
+<Closing_Date>22 October 2010</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Bank of Jacksonville</Bank_Name>
+<City>Jacksonville</City>
+<ST>FL</ST>
+<CERT>27573</CERT>
+<Acquiring_Institution>Ameris Bank</Acquiring_Institution>
+<Closing_Date>22 October 2010</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Premier Bank</Bank_Name>
+<City>Jefferson City</City>
+<ST>MO</ST>
+<CERT>34016</CERT>
+<Acquiring_Institution>Providence Bank</Acquiring_Institution>
+<Closing_Date>15 October 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>WestBridge Bank and Trust Company</Bank_Name>
+<City>Chesterfield</City>
+<ST>MO</ST>
+<CERT>58205</CERT>
+<Acquiring_Institution>Midland States Bank</Acquiring_Institution>
+<Closing_Date>15 October 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Security Savings Bank, F.S.B.</Bank_Name>
+<City>Olathe</City>
+<ST>KS</ST>
+<CERT>30898</CERT>
+<Acquiring_Institution>Simmons First National Bank</Acquiring_Institution>
+<Closing_Date>15 October 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Shoreline Bank</Bank_Name>
+<City>Shoreline</City>
+<ST>WA</ST>
+<CERT>35250</CERT>
+<Acquiring_Institution>GBC International Bank</Acquiring_Institution>
+<Closing_Date>1 October 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Wakulla Bank</Bank_Name>
+<City>Crawfordville</City>
+<ST>FL</ST>
+<CERT>21777</CERT>
+<Acquiring_Institution>Centennial Bank</Acquiring_Institution>
+<Closing_Date>1 October 2010</Closing_Date>
+<Updated_Date>2 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>North County Bank</Bank_Name>
+<City>Arlington</City>
+<ST>WA</ST>
+<CERT>35053</CERT>
+<Acquiring_Institution>Whidbey Island Bank</Acquiring_Institution>
+<Closing_Date>24 September 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Haven Trust Bank Florida</Bank_Name>
+<City>Ponte Vedra Beach</City>
+<ST>FL</ST>
+<CERT>58308</CERT>
+<Acquiring_Institution>First Southern Bank</Acquiring_Institution>
+<Closing_Date>24 September 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Maritime Savings Bank</Bank_Name>
+<City>West Allis</City>
+<ST>WI</ST>
+<CERT>28612</CERT>
+<Acquiring_Institution>North Shore Bank, FSB</Acquiring_Institution>
+<Closing_Date>17 September 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bramble Savings Bank</Bank_Name>
+<City>Milford</City>
+<ST>OH</ST>
+<CERT>27808</CERT>
+<Acquiring_Institution>Foundation Bank</Acquiring_Institution>
+<Closing_Date>17 September 2010</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Peoples Bank</Bank_Name>
+<City>Winder</City>
+<ST>GA</ST>
+<CERT>182</CERT>
+<Acquiring_Institution>Community &amp; Southern Bank</Acquiring_Institution>
+<Closing_Date>17 September 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Commerce Community Bank</Bank_Name>
+<City>Douglasville</City>
+<ST>GA</ST>
+<CERT>57448</CERT>
+<Acquiring_Institution>Community &amp; Southern Bank</Acquiring_Institution>
+<Closing_Date>17 September 2010</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Ellijay</Bank_Name>
+<City>Ellijay</City>
+<ST>GA</ST>
+<CERT>58197</CERT>
+<Acquiring_Institution>Community &amp; Southern Bank</Acquiring_Institution>
+<Closing_Date>17 September 2010</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>ISN Bank</Bank_Name>
+<City>Cherry Hill</City>
+<ST>NJ</ST>
+<CERT>57107</CERT>
+<Acquiring_Institution>Customers Bank</Acquiring_Institution>
+<Closing_Date>17 September 2010</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Horizon Bank</Bank_Name>
+<City>Bradenton</City>
+<ST>FL</ST>
+<CERT>35061</CERT>
+<Acquiring_Institution>Bank of the Ozarks</Acquiring_Institution>
+<Closing_Date>10 September 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Sonoma Valley Bank</Bank_Name>
+<City>Sonoma</City>
+<ST>CA</ST>
+<CERT>27259</CERT>
+<Acquiring_Institution>Westamerica Bank</Acquiring_Institution>
+<Closing_Date>20 August 2010</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Los Padres Bank</Bank_Name>
+<City>Solvang</City>
+<ST>CA</ST>
+<CERT>32165</CERT>
+<Acquiring_Institution>Pacific Western Bank</Acquiring_Institution>
+<Closing_Date>20 August 2010</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Butte Community Bank</Bank_Name>
+<City>Chico</City>
+<ST>CA</ST>
+<CERT>33219</CERT>
+<Acquiring_Institution>Rabobank, N.A.</Acquiring_Institution>
+<Closing_Date>20 August 2010</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Pacific State Bank</Bank_Name>
+<City>Stockton</City>
+<ST>CA</ST>
+<CERT>27090</CERT>
+<Acquiring_Institution>Rabobank, N.A.</Acquiring_Institution>
+<Closing_Date>20 August 2010</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>ShoreBank</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>15640</CERT>
+<Acquiring_Institution>Urban Partnership Bank</Acquiring_Institution>
+<Closing_Date>20 August 2010</Closing_Date>
+<Updated_Date>16 May 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Imperial Savings and Loan Association</Bank_Name>
+<City>Martinsville</City>
+<ST>VA</ST>
+<CERT>31623</CERT>
+<Acquiring_Institution>River Community Bank, N.A.</Acquiring_Institution>
+<Closing_Date>20 August 2010</Closing_Date>
+<Updated_Date>24 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Independent National Bank</Bank_Name>
+<City>Ocala</City>
+<ST>FL</ST>
+<CERT>27344</CERT>
+<Acquiring_Institution>CenterState Bank of Florida, N.A.</Acquiring_Institution>
+<Closing_Date>20 August 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community National Bank at Bartow</Bank_Name>
+<City>Bartow</City>
+<ST>FL</ST>
+<CERT>25266</CERT>
+<Acquiring_Institution>CenterState Bank of Florida, N.A.</Acquiring_Institution>
+<Closing_Date>20 August 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Palos Bank and Trust Company</Bank_Name>
+<City>Palos Heights</City>
+<ST>IL</ST>
+<CERT>17599</CERT>
+<Acquiring_Institution>First Midwest Bank</Acquiring_Institution>
+<Closing_Date>13 August 2010</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Ravenswood Bank</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>34231</CERT>
+<Acquiring_Institution>Northbrook Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>6 August 2010</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>LibertyBank</Bank_Name>
+<City>Eugene</City>
+<ST>OR</ST>
+<CERT>31964</CERT>
+<Acquiring_Institution>Home Federal Bank</Acquiring_Institution>
+<Closing_Date>30 July 2010</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Cowlitz Bank</Bank_Name>
+<City>Longview</City>
+<ST>WA</ST>
+<CERT>22643</CERT>
+<Acquiring_Institution>Heritage Bank</Acquiring_Institution>
+<Closing_Date>30 July 2010</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Coastal Community Bank</Bank_Name>
+<City>Panama City Beach</City>
+<ST>FL</ST>
+<CERT>9619</CERT>
+<Acquiring_Institution>Centennial Bank</Acquiring_Institution>
+<Closing_Date>30 July 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bayside Savings Bank</Bank_Name>
+<City>Port Saint Joe</City>
+<ST>FL</ST>
+<CERT>57669</CERT>
+<Acquiring_Institution>Centennial Bank</Acquiring_Institution>
+<Closing_Date>30 July 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Northwest Bank &amp; Trust</Bank_Name>
+<City>Acworth</City>
+<ST>GA</ST>
+<CERT>57658</CERT>
+<Acquiring_Institution>State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>30 July 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Home Valley Bank</Bank_Name>
+<City>Cave Junction</City>
+<ST>OR</ST>
+<CERT>23181</CERT>
+<Acquiring_Institution>South Valley Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>23 July 2010</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>SouthwestUSA Bank</Bank_Name>
+<City>Las Vegas</City>
+<ST>NV</ST>
+<CERT>35434</CERT>
+<Acquiring_Institution>Plaza Bank</Acquiring_Institution>
+<Closing_Date>23 July 2010</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community Security Bank</Bank_Name>
+<City>New Prague</City>
+<ST>MN</ST>
+<CERT>34486</CERT>
+<Acquiring_Institution>Roundbank</Acquiring_Institution>
+<Closing_Date>23 July 2010</Closing_Date>
+<Updated_Date>12 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Thunder Bank</Bank_Name>
+<City>Sylvan Grove</City>
+<ST>KS</ST>
+<CERT>10506</CERT>
+<Acquiring_Institution>The Bennington State Bank</Acquiring_Institution>
+<Closing_Date>23 July 2010</Closing_Date>
+<Updated_Date>13 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Williamsburg First National Bank</Bank_Name>
+<City>Kingstree</City>
+<ST>SC</ST>
+<CERT>17837</CERT>
+<Acquiring_Institution>First Citizens Bank and Trust Company, Inc.</Acquiring_Institution>
+<Closing_Date>23 July 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Crescent Bank and Trust Company</Bank_Name>
+<City>Jasper</City>
+<ST>GA</ST>
+<CERT>27559</CERT>
+<Acquiring_Institution>Renasant Bank</Acquiring_Institution>
+<Closing_Date>23 July 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Sterling Bank</Bank_Name>
+<City>Lantana</City>
+<ST>FL</ST>
+<CERT>32536</CERT>
+<Acquiring_Institution>IBERIABANK</Acquiring_Institution>
+<Closing_Date>23 July 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Mainstreet Savings Bank, FSB</Bank_Name>
+<City>Hastings</City>
+<ST>MI</ST>
+<CERT>28136</CERT>
+<Acquiring_Institution>Commercial Bank</Acquiring_Institution>
+<Closing_Date>16 July 2010</Closing_Date>
+<Updated_Date>13 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Olde Cypress Community Bank</Bank_Name>
+<City>Clewiston</City>
+<ST>FL</ST>
+<CERT>28864</CERT>
+<Acquiring_Institution>CenterState Bank of Florida, N.A.</Acquiring_Institution>
+<Closing_Date>16 July 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Turnberry Bank</Bank_Name>
+<City>Aventura</City>
+<ST>FL</ST>
+<CERT>32280</CERT>
+<Acquiring_Institution>NAFH National Bank</Acquiring_Institution>
+<Closing_Date>16 July 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Metro Bank of Dade County</Bank_Name>
+<City>Miami</City>
+<ST>FL</ST>
+<CERT>25172</CERT>
+<Acquiring_Institution>NAFH National Bank</Acquiring_Institution>
+<Closing_Date>16 July 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First National Bank of the South</Bank_Name>
+<City>Spartanburg</City>
+<ST>SC</ST>
+<CERT>35383</CERT>
+<Acquiring_Institution>NAFH National Bank</Acquiring_Institution>
+<Closing_Date>16 July 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Woodlands Bank</Bank_Name>
+<City>Bluffton</City>
+<ST>SC</ST>
+<CERT>32571</CERT>
+<Acquiring_Institution>Bank of the Ozarks</Acquiring_Institution>
+<Closing_Date>16 July 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Home National Bank</Bank_Name>
+<City>Blackwell</City>
+<ST>OK</ST>
+<CERT>11636</CERT>
+<Acquiring_Institution>RCB Bank</Acquiring_Institution>
+<Closing_Date>9 July 2010</Closing_Date>
+<Updated_Date>10 December 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>USA Bank</Bank_Name>
+<City>Port Chester</City>
+<ST>NY</ST>
+<CERT>58072</CERT>
+<Acquiring_Institution>New Century Bank</Acquiring_Institution>
+<Closing_Date>9 July 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Ideal Federal Savings Bank</Bank_Name>
+<City>Baltimore</City>
+<ST>MD</ST>
+<CERT>32456</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>9 July 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bay National Bank</Bank_Name>
+<City>Baltimore</City>
+<ST>MD</ST>
+<CERT>35462</CERT>
+<Acquiring_Institution>Bay Bank, FSB</Acquiring_Institution>
+<Closing_Date>9 July 2010</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>High Desert State Bank</Bank_Name>
+<City>Albuquerque</City>
+<ST>NM</ST>
+<CERT>35279</CERT>
+<Acquiring_Institution>First American Bank</Acquiring_Institution>
+<Closing_Date>25 June 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First National Bank</Bank_Name>
+<City>Savannah</City>
+<ST>GA</ST>
+<CERT>34152</CERT>
+<Acquiring_Institution>The Savannah Bank, N.A.</Acquiring_Institution>
+<Closing_Date>25 June 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Peninsula Bank</Bank_Name>
+<City>Englewood</City>
+<ST>FL</ST>
+<CERT>26563</CERT>
+<Acquiring_Institution>Premier American Bank, N.A.</Acquiring_Institution>
+<Closing_Date>25 June 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Nevada Security Bank</Bank_Name>
+<City>Reno</City>
+<ST>NV</ST>
+<CERT>57110</CERT>
+<Acquiring_Institution>Umpqua Bank</Acquiring_Institution>
+<Closing_Date>18 June 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Washington First International Bank</Bank_Name>
+<City>Seattle</City>
+<ST>WA</ST>
+<CERT>32955</CERT>
+<Acquiring_Institution>East West Bank</Acquiring_Institution>
+<Closing_Date>11 June 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>TierOne Bank</Bank_Name>
+<City>Lincoln</City>
+<ST>NE</ST>
+<CERT>29341</CERT>
+<Acquiring_Institution>Great Western Bank</Acquiring_Institution>
+<Closing_Date>4 June 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Arcola Homestead Savings Bank</Bank_Name>
+<City>Arcola</City>
+<ST>IL</ST>
+<CERT>31813</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>4 June 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First National Bank</Bank_Name>
+<City>Rosedale</City>
+<ST>MS</ST>
+<CERT>15814</CERT>
+<Acquiring_Institution>The Jefferson Bank</Acquiring_Institution>
+<Closing_Date>4 June 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Sun West Bank</Bank_Name>
+<City>Las Vegas</City>
+<ST>NV</ST>
+<CERT>34785</CERT>
+<Acquiring_Institution>City National Bank</Acquiring_Institution>
+<Closing_Date>28 May 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Granite Community Bank, NA</Bank_Name>
+<City>Granite Bay</City>
+<ST>CA</ST>
+<CERT>57315</CERT>
+<Acquiring_Institution>Tri Counties Bank</Acquiring_Institution>
+<Closing_Date>28 May 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Florida   Tampa</Bank_Name>
+<City>Tampa</City>
+<ST>FL</ST>
+<CERT>57814</CERT>
+<Acquiring_Institution>EverBank</Acquiring_Institution>
+<Closing_Date>28 May 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Florida   Southwest</Bank_Name>
+<City>Naples</City>
+<ST>FL</ST>
+<CERT>35106</CERT>
+<Acquiring_Institution>EverBank</Acquiring_Institution>
+<Closing_Date>28 May 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Florida   Southeast</Bank_Name>
+<City>Fort Lauderdale</City>
+<ST>FL</ST>
+<CERT>57360</CERT>
+<Acquiring_Institution>EverBank</Acquiring_Institution>
+<Closing_Date>28 May 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Pinehurst Bank</Bank_Name>
+<City>Saint Paul</City>
+<ST>MN</ST>
+<CERT>57735</CERT>
+<Acquiring_Institution>Coulee Bank</Acquiring_Institution>
+<Closing_Date>21 May 2010</Closing_Date>
+<Updated_Date>26 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Midwest Bank and Trust Company</Bank_Name>
+<City>Elmwood Park</City>
+<ST>IL</ST>
+<CERT>18117</CERT>
+<Acquiring_Institution>FirstMerit Bank, N.A.</Acquiring_Institution>
+<Closing_Date>14 May 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Southwest Community Bank</Bank_Name>
+<City>Springfield</City>
+<ST>MO</ST>
+<CERT>34255</CERT>
+<Acquiring_Institution>Simmons First National Bank</Acquiring_Institution>
+<Closing_Date>14 May 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>New Liberty Bank</Bank_Name>
+<City>Plymouth</City>
+<ST>MI</ST>
+<CERT>35586</CERT>
+<Acquiring_Institution>Bank of Ann Arbor</Acquiring_Institution>
+<Closing_Date>14 May 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Satilla Community Bank</Bank_Name>
+<City>Saint Marys</City>
+<ST>GA</ST>
+<CERT>35114</CERT>
+<Acquiring_Institution>Ameris Bank</Acquiring_Institution>
+<Closing_Date>14 May 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>1st Pacific Bank of California</Bank_Name>
+<City>San Diego</City>
+<ST>CA</ST>
+<CERT>35517</CERT>
+<Acquiring_Institution>City National Bank</Acquiring_Institution>
+<Closing_Date>7 May 2010</Closing_Date>
+<Updated_Date>13 December 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Towne Bank of Arizona</Bank_Name>
+<City>Mesa</City>
+<ST>AZ</ST>
+<CERT>57697</CERT>
+<Acquiring_Institution>Commerce Bank of Arizona</Acquiring_Institution>
+<Closing_Date>7 May 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Access Bank</Bank_Name>
+<City>Champlin</City>
+<ST>MN</ST>
+<CERT>16476</CERT>
+<Acquiring_Institution>PrinsBank</Acquiring_Institution>
+<Closing_Date>7 May 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Bank of Bonifay</Bank_Name>
+<City>Bonifay</City>
+<ST>FL</ST>
+<CERT>14246</CERT>
+<Acquiring_Institution>First Federal Bank of Florida</Acquiring_Institution>
+<Closing_Date>7 May 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Frontier Bank</Bank_Name>
+<City>Everett</City>
+<ST>WA</ST>
+<CERT>22710</CERT>
+<Acquiring_Institution>Union Bank, N.A.</Acquiring_Institution>
+<Closing_Date>30 April 2010</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>BC National Banks</Bank_Name>
+<City>Butler</City>
+<ST>MO</ST>
+<CERT>17792</CERT>
+<Acquiring_Institution>Community First Bank</Acquiring_Institution>
+<Closing_Date>30 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Champion Bank</Bank_Name>
+<City>Creve Coeur</City>
+<ST>MO</ST>
+<CERT>58362</CERT>
+<Acquiring_Institution>BankLiberty</Acquiring_Institution>
+<Closing_Date>30 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>CF Bancorp</Bank_Name>
+<City>Port Huron</City>
+<ST>MI</ST>
+<CERT>30005</CERT>
+<Acquiring_Institution>First Michigan Bank</Acquiring_Institution>
+<Closing_Date>30 April 2010</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Westernbank Puerto Rico</Bank_Name>
+<City>Mayaguez</City>
+<ST>PR</ST>
+<CERT>31027</CERT>
+<Acquiring_Institution>Banco Popular de Puerto Rico</Acquiring_Institution>
+<Closing_Date>30 April 2010</Closing_Date>
+<Updated_Date>25 October 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>R G Premier Bank of Puerto Rico</Bank_Name>
+<City>Hato Rey</City>
+<ST>PR</ST>
+<CERT>32185</CERT>
+<Acquiring_Institution>Scotiabank de Puerto Rico</Acquiring_Institution>
+<Closing_Date>30 April 2010</Closing_Date>
+<Updated_Date>25 October 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Eurobank</Bank_Name>
+<City>San Juan</City>
+<ST>PR</ST>
+<CERT>27150</CERT>
+<Acquiring_Institution>Oriental Bank and Trust</Acquiring_Institution>
+<Closing_Date>30 April 2010</Closing_Date>
+<Updated_Date>25 October 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Wheatland Bank</Bank_Name>
+<City>Naperville</City>
+<ST>IL</ST>
+<CERT>58429</CERT>
+<Acquiring_Institution>Wheaton Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>23 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Peotone Bank and Trust Company</Bank_Name>
+<City>Peotone</City>
+<ST>IL</ST>
+<CERT>10888</CERT>
+<Acquiring_Institution>First Midwest Bank</Acquiring_Institution>
+<Closing_Date>23 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Lincoln Park Savings Bank</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>30600</CERT>
+<Acquiring_Institution>Northbrook Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>23 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>New Century Bank</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>34821</CERT>
+<Acquiring_Institution>MB Financial Bank, N.A.</Acquiring_Institution>
+<Closing_Date>23 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Citizens Bank and Trust Company of Chicago</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>34658</CERT>
+<Acquiring_Institution>Republic Bank of Chicago</Acquiring_Institution>
+<Closing_Date>23 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Broadway Bank</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>22853</CERT>
+<Acquiring_Institution>MB Financial Bank, N.A.</Acquiring_Institution>
+<Closing_Date>23 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Amcore Bank, National Association</Bank_Name>
+<City>Rockford</City>
+<ST>IL</ST>
+<CERT>3735</CERT>
+<Acquiring_Institution>Harris N.A.</Acquiring_Institution>
+<Closing_Date>23 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>City Bank</Bank_Name>
+<City>Lynnwood</City>
+<ST>WA</ST>
+<CERT>21521</CERT>
+<Acquiring_Institution>Whidbey Island Bank</Acquiring_Institution>
+<Closing_Date>16 April 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Tamalpais Bank</Bank_Name>
+<City>San Rafael</City>
+<ST>CA</ST>
+<CERT>33493</CERT>
+<Acquiring_Institution>Union Bank, N.A.</Acquiring_Institution>
+<Closing_Date>16 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Innovative Bank</Bank_Name>
+<City>Oakland</City>
+<ST>CA</ST>
+<CERT>23876</CERT>
+<Acquiring_Institution>Center Bank</Acquiring_Institution>
+<Closing_Date>16 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Butler Bank</Bank_Name>
+<City>Lowell</City>
+<ST>MA</ST>
+<CERT>26619</CERT>
+<Acquiring_Institution>People&apos;s United Bank</Acquiring_Institution>
+<Closing_Date>16 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Riverside National Bank of Florida</Bank_Name>
+<City>Fort Pierce</City>
+<ST>FL</ST>
+<CERT>24067</CERT>
+<Acquiring_Institution>TD Bank, N.A.</Acquiring_Institution>
+<Closing_Date>16 April 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>AmericanFirst Bank</Bank_Name>
+<City>Clermont</City>
+<ST>FL</ST>
+<CERT>57724</CERT>
+<Acquiring_Institution>TD Bank, N.A.</Acquiring_Institution>
+<Closing_Date>16 April 2010</Closing_Date>
+<Updated_Date>31 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Federal Bank of North Florida</Bank_Name>
+<City>Palatka</City>
+<ST>FL</ST>
+<CERT>28886</CERT>
+<Acquiring_Institution>TD Bank, N.A.</Acquiring_Institution>
+<Closing_Date>16 April 2010</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Lakeside Community Bank</Bank_Name>
+<City>Sterling Heights</City>
+<ST>MI</ST>
+<CERT>34878</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>16 April 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Beach First National Bank</Bank_Name>
+<City>Myrtle Beach</City>
+<ST>SC</ST>
+<CERT>34242</CERT>
+<Acquiring_Institution>Bank of North Carolina</Acquiring_Institution>
+<Closing_Date>9 April 2010</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Desert Hills Bank</Bank_Name>
+<City>Phoenix</City>
+<ST>AZ</ST>
+<CERT>57060</CERT>
+<Acquiring_Institution>New York Community Bank</Acquiring_Institution>
+<Closing_Date>26 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Unity National Bank</Bank_Name>
+<City>Cartersville</City>
+<ST>GA</ST>
+<CERT>34678</CERT>
+<Acquiring_Institution>Bank of the Ozarks</Acquiring_Institution>
+<Closing_Date>26 March 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Key West Bank</Bank_Name>
+<City>Key West</City>
+<ST>FL</ST>
+<CERT>34684</CERT>
+<Acquiring_Institution>Centennial Bank</Acquiring_Institution>
+<Closing_Date>26 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>McIntosh Commercial Bank</Bank_Name>
+<City>Carrollton</City>
+<ST>GA</ST>
+<CERT>57399</CERT>
+<Acquiring_Institution>CharterBank</Acquiring_Institution>
+<Closing_Date>26 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>State Bank of Aurora</Bank_Name>
+<City>Aurora</City>
+<ST>MN</ST>
+<CERT>8221</CERT>
+<Acquiring_Institution>Northern State Bank</Acquiring_Institution>
+<Closing_Date>19 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Lowndes Bank</Bank_Name>
+<City>Fort Deposit</City>
+<ST>AL</ST>
+<CERT>24957</CERT>
+<Acquiring_Institution>First Citizens Bank</Acquiring_Institution>
+<Closing_Date>19 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Hiawassee</Bank_Name>
+<City>Hiawassee</City>
+<ST>GA</ST>
+<CERT>10054</CERT>
+<Acquiring_Institution>Citizens South Bank</Acquiring_Institution>
+<Closing_Date>19 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Appalachian Community Bank</Bank_Name>
+<City>Ellijay</City>
+<ST>GA</ST>
+<CERT>33989</CERT>
+<Acquiring_Institution>Community &amp; Southern Bank</Acquiring_Institution>
+<Closing_Date>19 March 2010</Closing_Date>
+<Updated_Date>31 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Advanta Bank Corp.</Bank_Name>
+<City>Draper</City>
+<ST>UT</ST>
+<CERT>33535</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>19 March 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Century Security Bank</Bank_Name>
+<City>Duluth</City>
+<ST>GA</ST>
+<CERT>58104</CERT>
+<Acquiring_Institution>Bank of Upson</Acquiring_Institution>
+<Closing_Date>19 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>American National Bank</Bank_Name>
+<City>Parma</City>
+<ST>OH</ST>
+<CERT>18806</CERT>
+<Acquiring_Institution>The National Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>19 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Statewide Bank</Bank_Name>
+<City>Covington</City>
+<ST>LA</ST>
+<CERT>29561</CERT>
+<Acquiring_Institution>Home Bank</Acquiring_Institution>
+<Closing_Date>12 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Old Southern Bank</Bank_Name>
+<City>Orlando</City>
+<ST>FL</ST>
+<CERT>58182</CERT>
+<Acquiring_Institution>Centennial Bank</Acquiring_Institution>
+<Closing_Date>12 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Park Avenue Bank</Bank_Name>
+<City>New York</City>
+<ST>NY</ST>
+<CERT>27096</CERT>
+<Acquiring_Institution>Valley National Bank</Acquiring_Institution>
+<Closing_Date>12 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>LibertyPointe Bank</Bank_Name>
+<City>New York</City>
+<ST>NY</ST>
+<CERT>58071</CERT>
+<Acquiring_Institution>Valley National Bank</Acquiring_Institution>
+<Closing_Date>11 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Centennial Bank</Bank_Name>
+<City>Ogden</City>
+<ST>UT</ST>
+<CERT>34430</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>5 March 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Waterfield Bank</Bank_Name>
+<City>Germantown</City>
+<ST>MD</ST>
+<CERT>34976</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>5 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Illinois</Bank_Name>
+<City>Normal</City>
+<ST>IL</ST>
+<CERT>9268</CERT>
+<Acquiring_Institution>Heartland Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>5 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Sun American Bank</Bank_Name>
+<City>Boca Raton</City>
+<ST>FL</ST>
+<CERT>27126</CERT>
+<Acquiring_Institution>First Citizens Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>5 March 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Rainier Pacific Bank</Bank_Name>
+<City>Tacoma</City>
+<ST>WA</ST>
+<CERT>38129</CERT>
+<Acquiring_Institution>Umpqua Bank</Acquiring_Institution>
+<Closing_Date>26 February 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Carson River Community Bank</Bank_Name>
+<City>Carson City</City>
+<ST>NV</ST>
+<CERT>58352</CERT>
+<Acquiring_Institution>Heritage Bank of Nevada</Acquiring_Institution>
+<Closing_Date>26 February 2010</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>La Jolla Bank, FSB</Bank_Name>
+<City>La Jolla</City>
+<ST>CA</ST>
+<CERT>32423</CERT>
+<Acquiring_Institution>OneWest Bank, FSB</Acquiring_Institution>
+<Closing_Date>19 February 2010</Closing_Date>
+<Updated_Date>24 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>George Washington Savings Bank</Bank_Name>
+<City>Orland Park</City>
+<ST>IL</ST>
+<CERT>29952</CERT>
+<Acquiring_Institution>FirstMerit Bank, N.A.</Acquiring_Institution>
+<Closing_Date>19 February 2010</Closing_Date>
+<Updated_Date>24 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The La Coste National Bank</Bank_Name>
+<City>La Coste</City>
+<ST>TX</ST>
+<CERT>3287</CERT>
+<Acquiring_Institution>Community National Bank</Acquiring_Institution>
+<Closing_Date>19 February 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Marco Community Bank</Bank_Name>
+<City>Marco Island</City>
+<ST>FL</ST>
+<CERT>57586</CERT>
+<Acquiring_Institution>Mutual of Omaha Bank</Acquiring_Institution>
+<Closing_Date>19 February 2010</Closing_Date>
+<Updated_Date>24 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>1st American State Bank of Minnesota</Bank_Name>
+<City>Hancock</City>
+<ST>MN</ST>
+<CERT>15448</CERT>
+<Acquiring_Institution>Community Development Bank, FSB</Acquiring_Institution>
+<Closing_Date>5 February 2010</Closing_Date>
+<Updated_Date>1 November 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>American Marine Bank</Bank_Name>
+<City>Bainbridge Island</City>
+<ST>WA</ST>
+<CERT>16730</CERT>
+<Acquiring_Institution>Columbia State Bank</Acquiring_Institution>
+<Closing_Date>29 January 2010</Closing_Date>
+<Updated_Date>24 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Regional Bank</Bank_Name>
+<City>Los Angeles</City>
+<ST>CA</ST>
+<CERT>23011</CERT>
+<Acquiring_Institution>First Citizens Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>29 January 2010</Closing_Date>
+<Updated_Date>24 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community Bank and Trust</Bank_Name>
+<City>Cornelia</City>
+<ST>GA</ST>
+<CERT>5702</CERT>
+<Acquiring_Institution>SCBT National Association</Acquiring_Institution>
+<Closing_Date>29 January 2010</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Marshall Bank, N.A.</Bank_Name>
+<City>Hallock</City>
+<ST>MN</ST>
+<CERT>16133</CERT>
+<Acquiring_Institution>United Valley Bank</Acquiring_Institution>
+<Closing_Date>29 January 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Florida Community Bank</Bank_Name>
+<City>Immokalee</City>
+<ST>FL</ST>
+<CERT>5672</CERT>
+<Acquiring_Institution>Premier American Bank, N.A.</Acquiring_Institution>
+<Closing_Date>29 January 2010</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First National Bank of Georgia</Bank_Name>
+<City>Carrollton</City>
+<ST>GA</ST>
+<CERT>16480</CERT>
+<Acquiring_Institution>Community &amp; Southern Bank</Acquiring_Institution>
+<Closing_Date>29 January 2010</Closing_Date>
+<Updated_Date>13 December 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Columbia River Bank</Bank_Name>
+<City>The Dalles</City>
+<ST>OR</ST>
+<CERT>22469</CERT>
+<Acquiring_Institution>Columbia State Bank</Acquiring_Institution>
+<Closing_Date>22 January 2010</Closing_Date>
+<Updated_Date>14 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Evergreen Bank</Bank_Name>
+<City>Seattle</City>
+<ST>WA</ST>
+<CERT>20501</CERT>
+<Acquiring_Institution>Umpqua Bank</Acquiring_Institution>
+<Closing_Date>22 January 2010</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Charter Bank</Bank_Name>
+<City>Santa Fe</City>
+<ST>NM</ST>
+<CERT>32498</CERT>
+<Acquiring_Institution>Charter Bank</Acquiring_Institution>
+<Closing_Date>22 January 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Leeton</Bank_Name>
+<City>Leeton</City>
+<ST>MO</ST>
+<CERT>8265</CERT>
+<Acquiring_Institution>Sunflower Bank, N.A.</Acquiring_Institution>
+<Closing_Date>22 January 2010</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Premier American Bank</Bank_Name>
+<City>Miami</City>
+<ST>FL</ST>
+<CERT>57147</CERT>
+<Acquiring_Institution>Premier American Bank, N.A.</Acquiring_Institution>
+<Closing_Date>22 January 2010</Closing_Date>
+<Updated_Date>13 December 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Barnes Banking Company</Bank_Name>
+<City>Kaysville</City>
+<ST>UT</ST>
+<CERT>1252</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>15 January 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>St. Stephen State Bank</Bank_Name>
+<City>St. Stephen</City>
+<ST>MN</ST>
+<CERT>17522</CERT>
+<Acquiring_Institution>First State Bank of St. Joseph</Acquiring_Institution>
+<Closing_Date>15 January 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Town Community Bank &amp; Trust</Bank_Name>
+<City>Antioch</City>
+<ST>IL</ST>
+<CERT>34705</CERT>
+<Acquiring_Institution>First American Bank</Acquiring_Institution>
+<Closing_Date>15 January 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Horizon Bank</Bank_Name>
+<City>Bellingham</City>
+<ST>WA</ST>
+<CERT>22977</CERT>
+<Acquiring_Institution>Washington Federal Savings and Loan Association</Acquiring_Institution>
+<Closing_Date>8 January 2010</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Federal Bank of California, F.S.B.</Bank_Name>
+<City>Santa Monica</City>
+<ST>CA</ST>
+<CERT>28536</CERT>
+<Acquiring_Institution>OneWest Bank, FSB</Acquiring_Institution>
+<Closing_Date>18 December 2009</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Imperial Capital Bank</Bank_Name>
+<City>La Jolla</City>
+<ST>CA</ST>
+<CERT>26348</CERT>
+<Acquiring_Institution>City National Bank</Acquiring_Institution>
+<Closing_Date>18 December 2009</Closing_Date>
+<Updated_Date>5 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Independent Bankers&apos; Bank</Bank_Name>
+<City>Springfield</City>
+<ST>IL</ST>
+<CERT>26820</CERT>
+<Acquiring_Institution>The Independent BankersBank (TIB)</Acquiring_Institution>
+<Closing_Date>18 December 2009</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>New South Federal Savings Bank</Bank_Name>
+<City>Irondale</City>
+<ST>AL</ST>
+<CERT>32276</CERT>
+<Acquiring_Institution>Beal Bank</Acquiring_Institution>
+<Closing_Date>18 December 2009</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Citizens State Bank</Bank_Name>
+<City>New Baltimore</City>
+<ST>MI</ST>
+<CERT>1006</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>18 December 2009</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Peoples First Community Bank</Bank_Name>
+<City>Panama City</City>
+<ST>FL</ST>
+<CERT>32167</CERT>
+<Acquiring_Institution>Hancock Bank</Acquiring_Institution>
+<Closing_Date>18 December 2009</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>RockBridge Commercial Bank</Bank_Name>
+<City>Atlanta</City>
+<ST>GA</ST>
+<CERT>58315</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>18 December 2009</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>SolutionsBank</Bank_Name>
+<City>Overland Park</City>
+<ST>KS</ST>
+<CERT>4731</CERT>
+<Acquiring_Institution>Arvest Bank</Acquiring_Institution>
+<Closing_Date>11 December 2009</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Valley Capital Bank, N.A.</Bank_Name>
+<City>Mesa</City>
+<ST>AZ</ST>
+<CERT>58399</CERT>
+<Acquiring_Institution>Enterprise Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>11 December 2009</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Republic Federal Bank, N.A.</Bank_Name>
+<City>Miami</City>
+<ST>FL</ST>
+<CERT>22846</CERT>
+<Acquiring_Institution>1st United Bank</Acquiring_Institution>
+<Closing_Date>11 December 2009</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Greater Atlantic Bank</Bank_Name>
+<City>Reston</City>
+<ST>VA</ST>
+<CERT>32583</CERT>
+<Acquiring_Institution>Sonabank</Acquiring_Institution>
+<Closing_Date>4 December 2009</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Benchmark Bank</Bank_Name>
+<City>Aurora</City>
+<ST>IL</ST>
+<CERT>10440</CERT>
+<Acquiring_Institution>MB Financial Bank, N.A.</Acquiring_Institution>
+<Closing_Date>4 December 2009</Closing_Date>
+<Updated_Date>23 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>AmTrust Bank</Bank_Name>
+<City>Cleveland</City>
+<ST>OH</ST>
+<CERT>29776</CERT>
+<Acquiring_Institution>New York Community Bank</Acquiring_Institution>
+<Closing_Date>4 December 2009</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Tattnall Bank</Bank_Name>
+<City>Reidsville</City>
+<ST>GA</ST>
+<CERT>12080</CERT>
+<Acquiring_Institution>Heritage Bank of the South</Acquiring_Institution>
+<Closing_Date>4 December 2009</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Security National Bank</Bank_Name>
+<City>Norcross</City>
+<ST>GA</ST>
+<CERT>26290</CERT>
+<Acquiring_Institution>State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>4 December 2009</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>The Buckhead Community Bank</Bank_Name>
+<City>Atlanta</City>
+<ST>GA</ST>
+<CERT>34663</CERT>
+<Acquiring_Institution>State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>4 December 2009</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Commerce Bank of Southwest Florida</Bank_Name>
+<City>Fort Myers</City>
+<ST>FL</ST>
+<CERT>58016</CERT>
+<Acquiring_Institution>Central Bank</Acquiring_Institution>
+<Closing_Date>20 November 2009</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Pacific Coast National Bank</Bank_Name>
+<City>San Clemente</City>
+<ST>CA</ST>
+<CERT>57914</CERT>
+<Acquiring_Institution>Sunwest Bank</Acquiring_Institution>
+<Closing_Date>13 November 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Orion Bank</Bank_Name>
+<City>Naples</City>
+<ST>FL</ST>
+<CERT>22427</CERT>
+<Acquiring_Institution>IBERIABANK</Acquiring_Institution>
+<Closing_Date>13 November 2009</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Century Bank, F.S.B.</Bank_Name>
+<City>Sarasota</City>
+<ST>FL</ST>
+<CERT>32267</CERT>
+<Acquiring_Institution>IBERIABANK</Acquiring_Institution>
+<Closing_Date>13 November 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>United Commercial Bank</Bank_Name>
+<City>San Francisco</City>
+<ST>CA</ST>
+<CERT>32469</CERT>
+<Acquiring_Institution>East West Bank</Acquiring_Institution>
+<Closing_Date>6 November 2009</Closing_Date>
+<Updated_Date>5 November 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Gateway Bank of St. Louis</Bank_Name>
+<City>St. Louis</City>
+<ST>MO</ST>
+<CERT>19450</CERT>
+<Acquiring_Institution>Central Bank of Kansas City</Acquiring_Institution>
+<Closing_Date>6 November 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Prosperan Bank</Bank_Name>
+<City>Oakdale</City>
+<ST>MN</ST>
+<CERT>35074</CERT>
+<Acquiring_Institution>Alerus Financial, N.A.</Acquiring_Institution>
+<Closing_Date>6 November 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Home Federal Savings Bank</Bank_Name>
+<City>Detroit</City>
+<ST>MI</ST>
+<CERT>30329</CERT>
+<Acquiring_Institution>Liberty Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>6 November 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>United Security Bank</Bank_Name>
+<City>Sparta</City>
+<ST>GA</ST>
+<CERT>22286</CERT>
+<Acquiring_Institution>Ameris Bank</Acquiring_Institution>
+<Closing_Date>6 November 2009</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>North Houston Bank</Bank_Name>
+<City>Houston</City>
+<ST>TX</ST>
+<CERT>18776</CERT>
+<Acquiring_Institution>U.S. Bank N.A.</Acquiring_Institution>
+<Closing_Date>30 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Madisonville State Bank</Bank_Name>
+<City>Madisonville</City>
+<ST>TX</ST>
+<CERT>33782</CERT>
+<Acquiring_Institution>U.S. Bank N.A.</Acquiring_Institution>
+<Closing_Date>30 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Citizens National Bank</Bank_Name>
+<City>Teague</City>
+<ST>TX</ST>
+<CERT>25222</CERT>
+<Acquiring_Institution>U.S. Bank N.A.</Acquiring_Institution>
+<Closing_Date>30 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Park National Bank</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>11677</CERT>
+<Acquiring_Institution>U.S. Bank N.A.</Acquiring_Institution>
+<Closing_Date>30 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Pacific National Bank</Bank_Name>
+<City>San Francisco</City>
+<ST>CA</ST>
+<CERT>30006</CERT>
+<Acquiring_Institution>U.S. Bank N.A.</Acquiring_Institution>
+<Closing_Date>30 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>California National Bank</Bank_Name>
+<City>Los Angeles</City>
+<ST>CA</ST>
+<CERT>34659</CERT>
+<Acquiring_Institution>U.S. Bank N.A.</Acquiring_Institution>
+<Closing_Date>30 October 2009</Closing_Date>
+<Updated_Date>5 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>San Diego National Bank</Bank_Name>
+<City>San Diego</City>
+<ST>CA</ST>
+<CERT>23594</CERT>
+<Acquiring_Institution>U.S. Bank N.A.</Acquiring_Institution>
+<Closing_Date>30 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community Bank of Lemont</Bank_Name>
+<City>Lemont</City>
+<ST>IL</ST>
+<CERT>35291</CERT>
+<Acquiring_Institution>U.S. Bank N.A.</Acquiring_Institution>
+<Closing_Date>30 October 2009</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank USA, N.A.</Bank_Name>
+<City>Phoenix</City>
+<ST>AZ</ST>
+<CERT>32218</CERT>
+<Acquiring_Institution>U.S. Bank N.A.</Acquiring_Institution>
+<Closing_Date>30 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First DuPage Bank</Bank_Name>
+<City>Westmont</City>
+<ST>IL</ST>
+<CERT>35038</CERT>
+<Acquiring_Institution>First Midwest Bank</Acquiring_Institution>
+<Closing_Date>23 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Riverview Community Bank</Bank_Name>
+<City>Otsego</City>
+<ST>MN</ST>
+<CERT>57525</CERT>
+<Acquiring_Institution>Central Bank</Acquiring_Institution>
+<Closing_Date>23 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Elmwood</Bank_Name>
+<City>Racine</City>
+<ST>WI</ST>
+<CERT>18321</CERT>
+<Acquiring_Institution>Tri City National Bank</Acquiring_Institution>
+<Closing_Date>23 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Flagship National Bank</Bank_Name>
+<City>Bradenton</City>
+<ST>FL</ST>
+<CERT>35044</CERT>
+<Acquiring_Institution>First Federal Bank of Florida</Acquiring_Institution>
+<Closing_Date>23 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Hillcrest Bank Florida</Bank_Name>
+<City>Naples</City>
+<ST>FL</ST>
+<CERT>58336</CERT>
+<Acquiring_Institution>Stonegate Bank</Acquiring_Institution>
+<Closing_Date>23 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>American United Bank</Bank_Name>
+<City>Lawrenceville</City>
+<ST>GA</ST>
+<CERT>57794</CERT>
+<Acquiring_Institution>Ameris Bank</Acquiring_Institution>
+<Closing_Date>23 October 2009</Closing_Date>
+<Updated_Date>5 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Partners Bank</Bank_Name>
+<City>Naples</City>
+<ST>FL</ST>
+<CERT>57959</CERT>
+<Acquiring_Institution>Stonegate Bank</Acquiring_Institution>
+<Closing_Date>23 October 2009</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>San Joaquin Bank</Bank_Name>
+<City>Bakersfield</City>
+<ST>CA</ST>
+<CERT>23266</CERT>
+<Acquiring_Institution>Citizens Business Bank</Acquiring_Institution>
+<Closing_Date>16 October 2009</Closing_Date>
+<Updated_Date>22 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Southern Colorado National Bank</Bank_Name>
+<City>Pueblo</City>
+<ST>CO</ST>
+<CERT>57263</CERT>
+<Acquiring_Institution>Legacy Bank</Acquiring_Institution>
+<Closing_Date>2 October 2009</Closing_Date>
+<Updated_Date>5 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Jennings State Bank</Bank_Name>
+<City>Spring Grove</City>
+<ST>MN</ST>
+<CERT>11416</CERT>
+<Acquiring_Institution>Central Bank</Acquiring_Institution>
+<Closing_Date>2 October 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Warren Bank</Bank_Name>
+<City>Warren</City>
+<ST>MI</ST>
+<CERT>34824</CERT>
+<Acquiring_Institution>The Huntington National Bank</Acquiring_Institution>
+<Closing_Date>2 October 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Georgian Bank</Bank_Name>
+<City>Atlanta</City>
+<ST>GA</ST>
+<CERT>57151</CERT>
+<Acquiring_Institution>First Citizens Bank and Trust Company, Inc.</Acquiring_Institution>
+<Closing_Date>25 September 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Irwin Union Bank, F.S.B.</Bank_Name>
+<City>Louisville</City>
+<ST>KY</ST>
+<CERT>57068</CERT>
+<Acquiring_Institution>First Financial Bank, N.A.</Acquiring_Institution>
+<Closing_Date>18 September 2009</Closing_Date>
+<Updated_Date>5 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Irwin Union Bank and Trust Company</Bank_Name>
+<City>Columbus</City>
+<ST>IN</ST>
+<CERT>10100</CERT>
+<Acquiring_Institution>First Financial Bank, N.A.</Acquiring_Institution>
+<Closing_Date>18 September 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Venture Bank</Bank_Name>
+<City>Lacey</City>
+<ST>WA</ST>
+<CERT>22868</CERT>
+<Acquiring_Institution>First Citizens Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>11 September 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Brickwell Community Bank</Bank_Name>
+<City>Woodbury</City>
+<ST>MN</ST>
+<CERT>57736</CERT>
+<Acquiring_Institution>CorTrust Bank N.A.</Acquiring_Institution>
+<Closing_Date>11 September 2009</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Corus Bank, N.A.</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>13693</CERT>
+<Acquiring_Institution>MB Financial Bank, N.A.</Acquiring_Institution>
+<Closing_Date>11 September 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First State Bank</Bank_Name>
+<City>Flagstaff</City>
+<ST>AZ</ST>
+<CERT>34875</CERT>
+<Acquiring_Institution>Sunwest Bank</Acquiring_Institution>
+<Closing_Date>4 September 2009</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Platinum Community Bank</Bank_Name>
+<City>Rolling Meadows</City>
+<ST>IL</ST>
+<CERT>35030</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>4 September 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Vantus Bank</Bank_Name>
+<City>Sioux City</City>
+<ST>IA</ST>
+<CERT>27732</CERT>
+<Acquiring_Institution>Great Southern Bank</Acquiring_Institution>
+<Closing_Date>4 September 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>InBank</Bank_Name>
+<City>Oak Forest</City>
+<ST>IL</ST>
+<CERT>20203</CERT>
+<Acquiring_Institution>MB Financial Bank, N.A.</Acquiring_Institution>
+<Closing_Date>4 September 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Bank of Kansas City</Bank_Name>
+<City>Kansas City</City>
+<ST>MO</ST>
+<CERT>25231</CERT>
+<Acquiring_Institution>Great American Bank</Acquiring_Institution>
+<Closing_Date>4 September 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Affinity Bank</Bank_Name>
+<City>Ventura</City>
+<ST>CA</ST>
+<CERT>27197</CERT>
+<Acquiring_Institution>Pacific Western Bank</Acquiring_Institution>
+<Closing_Date>28 August 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Mainstreet Bank</Bank_Name>
+<City>Forest Lake</City>
+<ST>MN</ST>
+<CERT>1909</CERT>
+<Acquiring_Institution>Central Bank</Acquiring_Institution>
+<Closing_Date>28 August 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bradford Bank</Bank_Name>
+<City>Baltimore</City>
+<ST>MD</ST>
+<CERT>28312</CERT>
+<Acquiring_Institution>Manufacturers and Traders Trust Company (M&amp;T Bank)</Acquiring_Institution>
+<Closing_Date>28 August 2009</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Guaranty Bank</Bank_Name>
+<City>Austin</City>
+<ST>TX</ST>
+<CERT>32618</CERT>
+<Acquiring_Institution>BBVA Compass</Acquiring_Institution>
+<Closing_Date>21 August 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>CapitalSouth Bank</Bank_Name>
+<City>Birmingham</City>
+<ST>AL</ST>
+<CERT>22130</CERT>
+<Acquiring_Institution>IBERIABANK</Acquiring_Institution>
+<Closing_Date>21 August 2009</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Coweta Bank</Bank_Name>
+<City>Newnan</City>
+<ST>GA</ST>
+<CERT>57702</CERT>
+<Acquiring_Institution>United Bank</Acquiring_Institution>
+<Closing_Date>21 August 2009</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>ebank</Bank_Name>
+<City>Atlanta</City>
+<ST>GA</ST>
+<CERT>34682</CERT>
+<Acquiring_Institution>Stearns Bank, N.A.</Acquiring_Institution>
+<Closing_Date>21 August 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community Bank of Nevada</Bank_Name>
+<City>Las Vegas</City>
+<ST>NV</ST>
+<CERT>34043</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>14 August 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community Bank of Arizona</Bank_Name>
+<City>Phoenix</City>
+<ST>AZ</ST>
+<CERT>57645</CERT>
+<Acquiring_Institution>MidFirst Bank</Acquiring_Institution>
+<Closing_Date>14 August 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Union Bank, National Association</Bank_Name>
+<City>Gilbert</City>
+<ST>AZ</ST>
+<CERT>34485</CERT>
+<Acquiring_Institution>MidFirst Bank</Acquiring_Institution>
+<Closing_Date>14 August 2009</Closing_Date>
+<Updated_Date>21 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Colonial Bank</Bank_Name>
+<City>Montgomery</City>
+<ST>AL</ST>
+<CERT>9609</CERT>
+<Acquiring_Institution>Branch Banking &amp; Trust Company, (BB&amp;T)</Acquiring_Institution>
+<Closing_Date>14 August 2009</Closing_Date>
+<Updated_Date>5 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Dwelling House Savings and Loan Association</Bank_Name>
+<City>Pittsburgh</City>
+<ST>PA</ST>
+<CERT>31559</CERT>
+<Acquiring_Institution>PNC Bank, N.A.</Acquiring_Institution>
+<Closing_Date>14 August 2009</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community First Bank</Bank_Name>
+<City>Prineville</City>
+<ST>OR</ST>
+<CERT>23268</CERT>
+<Acquiring_Institution>Home Federal Bank</Acquiring_Institution>
+<Closing_Date>7 August 2009</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community National Bank of Sarasota County</Bank_Name>
+<City>Venice</City>
+<ST>FL</ST>
+<CERT>27183</CERT>
+<Acquiring_Institution>Stearns Bank, N.A.</Acquiring_Institution>
+<Closing_Date>7 August 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First State Bank</Bank_Name>
+<City>Sarasota</City>
+<ST>FL</ST>
+<CERT>27364</CERT>
+<Acquiring_Institution>Stearns Bank, N.A.</Acquiring_Institution>
+<Closing_Date>7 August 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Mutual Bank</Bank_Name>
+<City>Harvey</City>
+<ST>IL</ST>
+<CERT>18659</CERT>
+<Acquiring_Institution>United Central Bank</Acquiring_Institution>
+<Closing_Date>31 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First BankAmericano</Bank_Name>
+<City>Elizabeth</City>
+<ST>NJ</ST>
+<CERT>34270</CERT>
+<Acquiring_Institution>Crown Bank</Acquiring_Institution>
+<Closing_Date>31 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Peoples Community Bank</Bank_Name>
+<City>West Chester</City>
+<ST>OH</ST>
+<CERT>32288</CERT>
+<Acquiring_Institution>First Financial Bank, N.A.</Acquiring_Institution>
+<Closing_Date>31 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Integrity Bank</Bank_Name>
+<City>Jupiter</City>
+<ST>FL</ST>
+<CERT>57604</CERT>
+<Acquiring_Institution>Stonegate Bank</Acquiring_Institution>
+<Closing_Date>31 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First State Bank of Altus</Bank_Name>
+<City>Altus</City>
+<ST>OK</ST>
+<CERT>9873</CERT>
+<Acquiring_Institution>Herring Bank</Acquiring_Institution>
+<Closing_Date>31 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Security Bank of Jones County</Bank_Name>
+<City>Gray</City>
+<ST>GA</ST>
+<CERT>8486</CERT>
+<Acquiring_Institution>State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>24 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Security Bank of Houston County</Bank_Name>
+<City>Perry</City>
+<ST>GA</ST>
+<CERT>27048</CERT>
+<Acquiring_Institution>State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>24 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Security Bank of Bibb County</Bank_Name>
+<City>Macon</City>
+<ST>GA</ST>
+<CERT>27367</CERT>
+<Acquiring_Institution>State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>24 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Security Bank of North Metro</Bank_Name>
+<City>Woodstock</City>
+<ST>GA</ST>
+<CERT>57105</CERT>
+<Acquiring_Institution>State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>24 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Security Bank of North Fulton</Bank_Name>
+<City>Alpharetta</City>
+<ST>GA</ST>
+<CERT>57430</CERT>
+<Acquiring_Institution>State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>24 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Security Bank of Gwinnett County</Bank_Name>
+<City>Suwanee</City>
+<ST>GA</ST>
+<CERT>57346</CERT>
+<Acquiring_Institution>State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>24 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Waterford Village Bank</Bank_Name>
+<City>Williamsville</City>
+<ST>NY</ST>
+<CERT>58065</CERT>
+<Acquiring_Institution>Evans Bank, N.A.</Acquiring_Institution>
+<Closing_Date>24 July 2009</Closing_Date>
+<Updated_Date>1 November 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Temecula Valley Bank</Bank_Name>
+<City>Temecula</City>
+<ST>CA</ST>
+<CERT>34341</CERT>
+<Acquiring_Institution>First Citizens Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>17 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Vineyard Bank</Bank_Name>
+<City>Rancho Cucamonga</City>
+<ST>CA</ST>
+<CERT>23556</CERT>
+<Acquiring_Institution>California Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>17 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>BankFirst</Bank_Name>
+<City>Sioux Falls</City>
+<ST>SD</ST>
+<CERT>34103</CERT>
+<Acquiring_Institution>Alerus Financial, N.A.</Acquiring_Institution>
+<Closing_Date>17 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Piedmont Bank</Bank_Name>
+<City>Winder</City>
+<ST>GA</ST>
+<CERT>34594</CERT>
+<Acquiring_Institution>First American Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>17 July 2009</Closing_Date>
+<Updated_Date>15 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Wyoming</Bank_Name>
+<City>Thermopolis</City>
+<ST>WY</ST>
+<CERT>22754</CERT>
+<Acquiring_Institution>Central Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>10 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Founders Bank</Bank_Name>
+<City>Worth</City>
+<ST>IL</ST>
+<CERT>18390</CERT>
+<Acquiring_Institution>The PrivateBank and Trust Company</Acquiring_Institution>
+<Closing_Date>2 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Millennium State Bank of Texas</Bank_Name>
+<City>Dallas</City>
+<ST>TX</ST>
+<CERT>57667</CERT>
+<Acquiring_Institution>State Bank of Texas</Acquiring_Institution>
+<Closing_Date>2 July 2009</Closing_Date>
+<Updated_Date>26 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First National Bank of Danville</Bank_Name>
+<City>Danville</City>
+<ST>IL</ST>
+<CERT>3644</CERT>
+<Acquiring_Institution>First Financial Bank, N.A.</Acquiring_Institution>
+<Closing_Date>2 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Elizabeth State Bank</Bank_Name>
+<City>Elizabeth</City>
+<ST>IL</ST>
+<CERT>9262</CERT>
+<Acquiring_Institution>Galena State Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>2 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Rock River Bank</Bank_Name>
+<City>Oregon</City>
+<ST>IL</ST>
+<CERT>15302</CERT>
+<Acquiring_Institution>The Harvard State Bank</Acquiring_Institution>
+<Closing_Date>2 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First State Bank of Winchester</Bank_Name>
+<City>Winchester</City>
+<ST>IL</ST>
+<CERT>11710</CERT>
+<Acquiring_Institution>The First National Bank of Beardstown</Acquiring_Institution>
+<Closing_Date>2 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>John Warner Bank</Bank_Name>
+<City>Clinton</City>
+<ST>IL</ST>
+<CERT>12093</CERT>
+<Acquiring_Institution>State Bank of Lincoln</Acquiring_Institution>
+<Closing_Date>2 July 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Mirae Bank</Bank_Name>
+<City>Los Angeles</City>
+<ST>CA</ST>
+<CERT>57332</CERT>
+<Acquiring_Institution>Wilshire State Bank</Acquiring_Institution>
+<Closing_Date>26 June 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>MetroPacific Bank</Bank_Name>
+<City>Irvine</City>
+<ST>CA</ST>
+<CERT>57893</CERT>
+<Acquiring_Institution>Sunwest Bank</Acquiring_Institution>
+<Closing_Date>26 June 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Horizon Bank</Bank_Name>
+<City>Pine City</City>
+<ST>MN</ST>
+<CERT>9744</CERT>
+<Acquiring_Institution>Stearns Bank, N.A.</Acquiring_Institution>
+<Closing_Date>26 June 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Neighborhood Community Bank</Bank_Name>
+<City>Newnan</City>
+<ST>GA</ST>
+<CERT>35285</CERT>
+<Acquiring_Institution>CharterBank</Acquiring_Institution>
+<Closing_Date>26 June 2009</Closing_Date>
+<Updated_Date>20 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community Bank of West Georgia</Bank_Name>
+<City>Villa Rica</City>
+<ST>GA</ST>
+<CERT>57436</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>26 June 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First National Bank of Anthony</Bank_Name>
+<City>Anthony</City>
+<ST>KS</ST>
+<CERT>4614</CERT>
+<Acquiring_Institution>Bank of Kansas</Acquiring_Institution>
+<Closing_Date>19 June 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Cooperative Bank</Bank_Name>
+<City>Wilmington</City>
+<ST>NC</ST>
+<CERT>27837</CERT>
+<Acquiring_Institution>First Bank</Acquiring_Institution>
+<Closing_Date>19 June 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Southern Community Bank</Bank_Name>
+<City>Fayetteville</City>
+<ST>GA</ST>
+<CERT>35251</CERT>
+<Acquiring_Institution>United Community Bank</Acquiring_Institution>
+<Closing_Date>19 June 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Lincolnwood</Bank_Name>
+<City>Lincolnwood</City>
+<ST>IL</ST>
+<CERT>17309</CERT>
+<Acquiring_Institution>Republic Bank of Chicago</Acquiring_Institution>
+<Closing_Date>5 June 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Citizens National Bank</Bank_Name>
+<City>Macomb</City>
+<ST>IL</ST>
+<CERT>5757</CERT>
+<Acquiring_Institution>Morton Community Bank</Acquiring_Institution>
+<Closing_Date>22 May 2009</Closing_Date>
+<Updated_Date>4 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Strategic Capital Bank</Bank_Name>
+<City>Champaign</City>
+<ST>IL</ST>
+<CERT>35175</CERT>
+<Acquiring_Institution>Midland States Bank</Acquiring_Institution>
+<Closing_Date>22 May 2009</Closing_Date>
+<Updated_Date>4 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>BankUnited, FSB</Bank_Name>
+<City>Coral Gables</City>
+<ST>FL</ST>
+<CERT>32247</CERT>
+<Acquiring_Institution>BankUnited</Acquiring_Institution>
+<Closing_Date>21 May 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Westsound Bank</Bank_Name>
+<City>Bremerton</City>
+<ST>WA</ST>
+<CERT>34843</CERT>
+<Acquiring_Institution>Kitsap Bank</Acquiring_Institution>
+<Closing_Date>8 May 2009</Closing_Date>
+<Updated_Date>4 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>America West Bank</Bank_Name>
+<City>Layton</City>
+<ST>UT</ST>
+<CERT>35461</CERT>
+<Acquiring_Institution>Cache Valley Bank</Acquiring_Institution>
+<Closing_Date>1 May 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Citizens Community Bank</Bank_Name>
+<City>Ridgewood</City>
+<ST>NJ</ST>
+<CERT>57563</CERT>
+<Acquiring_Institution>North Jersey Community Bank</Acquiring_Institution>
+<Closing_Date>1 May 2009</Closing_Date>
+<Updated_Date>4 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Silverton Bank, NA</Bank_Name>
+<City>Atlanta</City>
+<ST>GA</ST>
+<CERT>26535</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>1 May 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Bank of Idaho</Bank_Name>
+<City>Ketchum</City>
+<ST>ID</ST>
+<CERT>34396</CERT>
+<Acquiring_Institution>U.S. Bank, N.A.</Acquiring_Institution>
+<Closing_Date>24 April 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Bank of Beverly Hills</Bank_Name>
+<City>Calabasas</City>
+<ST>CA</ST>
+<CERT>32069</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>24 April 2009</Closing_Date>
+<Updated_Date>4 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Michigan Heritage Bank</Bank_Name>
+<City>Farmington Hills</City>
+<ST>MI</ST>
+<CERT>34369</CERT>
+<Acquiring_Institution>Level One Bank</Acquiring_Institution>
+<Closing_Date>24 April 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>American Southern Bank</Bank_Name>
+<City>Kennesaw</City>
+<ST>GA</ST>
+<CERT>57943</CERT>
+<Acquiring_Institution>Bank of North Georgia</Acquiring_Institution>
+<Closing_Date>24 April 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Great Basin Bank of Nevada</Bank_Name>
+<City>Elko</City>
+<ST>NV</ST>
+<CERT>33824</CERT>
+<Acquiring_Institution>Nevada State Bank</Acquiring_Institution>
+<Closing_Date>17 April 2009</Closing_Date>
+<Updated_Date>4 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>American Sterling Bank</Bank_Name>
+<City>Sugar Creek</City>
+<ST>MO</ST>
+<CERT>8266</CERT>
+<Acquiring_Institution>Metcalf Bank</Acquiring_Institution>
+<Closing_Date>17 April 2009</Closing_Date>
+<Updated_Date>31 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>New Frontier Bank</Bank_Name>
+<City>Greeley</City>
+<ST>CO</ST>
+<CERT>34881</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>10 April 2009</Closing_Date>
+<Updated_Date>4 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Cape Fear Bank</Bank_Name>
+<City>Wilmington</City>
+<ST>NC</ST>
+<CERT>34639</CERT>
+<Acquiring_Institution>First Federal Savings and Loan Association</Acquiring_Institution>
+<Closing_Date>10 April 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Omni National Bank</Bank_Name>
+<City>Atlanta</City>
+<ST>GA</ST>
+<CERT>22238</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>27 March 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>TeamBank, NA</Bank_Name>
+<City>Paola</City>
+<ST>KS</ST>
+<CERT>4754</CERT>
+<Acquiring_Institution>Great Southern Bank</Acquiring_Institution>
+<Closing_Date>20 March 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Colorado National Bank</Bank_Name>
+<City>Colorado Springs</City>
+<ST>CO</ST>
+<CERT>18896</CERT>
+<Acquiring_Institution>Herring Bank</Acquiring_Institution>
+<Closing_Date>20 March 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>FirstCity Bank</Bank_Name>
+<City>Stockbridge</City>
+<ST>GA</ST>
+<CERT>18243</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>20 March 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Freedom Bank of Georgia</Bank_Name>
+<City>Commerce</City>
+<ST>GA</ST>
+<CERT>57558</CERT>
+<Acquiring_Institution>Northeast Georgia Bank</Acquiring_Institution>
+<Closing_Date>6 March 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Security Savings Bank</Bank_Name>
+<City>Henderson</City>
+<ST>NV</ST>
+<CERT>34820</CERT>
+<Acquiring_Institution>Bank of Nevada</Acquiring_Institution>
+<Closing_Date>27 February 2009</Closing_Date>
+<Updated_Date>7 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Heritage Community Bank</Bank_Name>
+<City>Glenwood</City>
+<ST>IL</ST>
+<CERT>20078</CERT>
+<Acquiring_Institution>MB Financial Bank, N.A.</Acquiring_Institution>
+<Closing_Date>27 February 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Silver Falls Bank</Bank_Name>
+<City>Silverton</City>
+<ST>OR</ST>
+<CERT>35399</CERT>
+<Acquiring_Institution>Citizens Bank</Acquiring_Institution>
+<Closing_Date>20 February 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Pinnacle Bank of Oregon</Bank_Name>
+<City>Beaverton</City>
+<ST>OR</ST>
+<CERT>57342</CERT>
+<Acquiring_Institution>Washington Trust Bank of Spokane</Acquiring_Institution>
+<Closing_Date>13 February 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Corn Belt Bank &amp; Trust Co.</Bank_Name>
+<City>Pittsfield</City>
+<ST>IL</ST>
+<CERT>16500</CERT>
+<Acquiring_Institution>The Carlinville National Bank</Acquiring_Institution>
+<Closing_Date>13 February 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Riverside Bank of the Gulf Coast</Bank_Name>
+<City>Cape Coral</City>
+<ST>FL</ST>
+<CERT>34563</CERT>
+<Acquiring_Institution>TIB Bank</Acquiring_Institution>
+<Closing_Date>13 February 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Sherman County Bank</Bank_Name>
+<City>Loup City</City>
+<ST>NE</ST>
+<CERT>5431</CERT>
+<Acquiring_Institution>Heritage Bank</Acquiring_Institution>
+<Closing_Date>13 February 2009</Closing_Date>
+<Updated_Date>17 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>County Bank</Bank_Name>
+<City>Merced</City>
+<ST>CA</ST>
+<CERT>22574</CERT>
+<Acquiring_Institution>Westamerica Bank</Acquiring_Institution>
+<Closing_Date>6 February 2009</Closing_Date>
+<Updated_Date>4 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Alliance Bank</Bank_Name>
+<City>Culver City</City>
+<ST>CA</ST>
+<CERT>23124</CERT>
+<Acquiring_Institution>California Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>6 February 2009</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>FirstBank Financial Services</Bank_Name>
+<City>McDonough</City>
+<ST>GA</ST>
+<CERT>57017</CERT>
+<Acquiring_Institution>Regions Bank</Acquiring_Institution>
+<Closing_Date>6 February 2009</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Ocala National Bank</Bank_Name>
+<City>Ocala</City>
+<ST>FL</ST>
+<CERT>26538</CERT>
+<Acquiring_Institution>CenterState Bank of Florida, N.A.</Acquiring_Institution>
+<Closing_Date>30 January 2009</Closing_Date>
+<Updated_Date>4 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Suburban FSB</Bank_Name>
+<City>Crofton</City>
+<ST>MD</ST>
+<CERT>30763</CERT>
+<Acquiring_Institution>Bank of Essex</Acquiring_Institution>
+<Closing_Date>30 January 2009</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>MagnetBank</Bank_Name>
+<City>Salt Lake City</City>
+<ST>UT</ST>
+<CERT>58001</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>30 January 2009</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>1st Centennial Bank</Bank_Name>
+<City>Redlands</City>
+<ST>CA</ST>
+<CERT>33025</CERT>
+<Acquiring_Institution>First California Bank</Acquiring_Institution>
+<Closing_Date>23 January 2009</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Clark County</Bank_Name>
+<City>Vancouver</City>
+<ST>WA</ST>
+<CERT>34959</CERT>
+<Acquiring_Institution>Umpqua Bank</Acquiring_Institution>
+<Closing_Date>16 January 2009</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>National Bank of Commerce</Bank_Name>
+<City>Berkeley</City>
+<ST>IL</ST>
+<CERT>19733</CERT>
+<Acquiring_Institution>Republic Bank of Chicago</Acquiring_Institution>
+<Closing_Date>16 January 2009</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Sanderson State Bank</Bank_Name>
+<City>Sanderson</City>
+<ST>TX</ST>
+<CERT>11568</CERT>
+<Acquiring_Institution>The Pecos County State Bank</Acquiring_Institution>
+<Closing_Date>12 December 2008</Closing_Date>
+<Updated_Date>25 October 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Haven Trust Bank</Bank_Name>
+<City>Duluth</City>
+<ST>GA</ST>
+<CERT>35379</CERT>
+<Acquiring_Institution>Branch Banking &amp; Trust Company, (BB&amp;T)</Acquiring_Institution>
+<Closing_Date>12 December 2008</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Georgia Community Bank</Bank_Name>
+<City>Jackson</City>
+<ST>GA</ST>
+<CERT>34301</CERT>
+<Acquiring_Institution>United Bank</Acquiring_Institution>
+<Closing_Date>5 December 2008</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>PFF Bank &amp; Trust</Bank_Name>
+<City>Pomona</City>
+<ST>CA</ST>
+<CERT>28344</CERT>
+<Acquiring_Institution>U.S. Bank, N.A.</Acquiring_Institution>
+<Closing_Date>21 November 2008</Closing_Date>
+<Updated_Date>4 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Downey Savings &amp; Loan</Bank_Name>
+<City>Newport Beach</City>
+<ST>CA</ST>
+<CERT>30968</CERT>
+<Acquiring_Institution>U.S. Bank, N.A.</Acquiring_Institution>
+<Closing_Date>21 November 2008</Closing_Date>
+<Updated_Date>4 January 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Community Bank</Bank_Name>
+<City>Loganville</City>
+<ST>GA</ST>
+<CERT>16490</CERT>
+<Acquiring_Institution>Bank of Essex</Acquiring_Institution>
+<Closing_Date>21 November 2008</Closing_Date>
+<Updated_Date>4 September 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Security Pacific Bank</Bank_Name>
+<City>Los Angeles</City>
+<ST>CA</ST>
+<CERT>23595</CERT>
+<Acquiring_Institution>Pacific Western Bank</Acquiring_Institution>
+<Closing_Date>7 November 2008</Closing_Date>
+<Updated_Date>28 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Franklin Bank, SSB</Bank_Name>
+<City>Houston</City>
+<ST>TX</ST>
+<CERT>26870</CERT>
+<Acquiring_Institution>Prosperity Bank</Acquiring_Institution>
+<Closing_Date>7 November 2008</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Freedom Bank</Bank_Name>
+<City>Bradenton</City>
+<ST>FL</ST>
+<CERT>57930</CERT>
+<Acquiring_Institution>Fifth Third Bank</Acquiring_Institution>
+<Closing_Date>31 October 2008</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Alpha Bank &amp; Trust</Bank_Name>
+<City>Alpharetta</City>
+<ST>GA</ST>
+<CERT>58241</CERT>
+<Acquiring_Institution>Stearns Bank, N.A.</Acquiring_Institution>
+<Closing_Date>24 October 2008</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Meridian Bank</Bank_Name>
+<City>Eldred</City>
+<ST>IL</ST>
+<CERT>13789</CERT>
+<Acquiring_Institution>National Bank</Acquiring_Institution>
+<Closing_Date>10 October 2008</Closing_Date>
+<Updated_Date>31 May 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Main Street Bank</Bank_Name>
+<City>Northville</City>
+<ST>MI</ST>
+<CERT>57654</CERT>
+<Acquiring_Institution>Monroe Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>10 October 2008</Closing_Date>
+<Updated_Date>1 August 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Washington Mutual Bank (Including its subsidiary Washington Mutual Bank FSB)</Bank_Name>
+<City>Henderson</City>
+<ST>NV</ST>
+<CERT>32633</CERT>
+<Acquiring_Institution>JP Morgan Chase Bank</Acquiring_Institution>
+<Closing_Date>25 September 2008</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Ameribank</Bank_Name>
+<City>Northfork</City>
+<ST>WV</ST>
+<CERT>6782</CERT>
+<Acquiring_Institution>The Citizens Savings Bank, Pioneer Community Bank, Inc.</Acquiring_Institution>
+<Closing_Date>19 September 2008</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Silver State Bank</Bank_Name>
+<City>Henderson</City>
+<ST>NV</ST>
+<CERT>34194</CERT>
+<Acquiring_Institution>Nevada State Bank</Acquiring_Institution>
+<Closing_Date>5 September 2008</Closing_Date>
+<Updated_Date>25 October 2013</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Integrity Bank</Bank_Name>
+<City>Alpharetta</City>
+<ST>GA</ST>
+<CERT>35469</CERT>
+<Acquiring_Institution>Regions Bank</Acquiring_Institution>
+<Closing_Date>29 August 2008</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Columbian Bank &amp; Trust</Bank_Name>
+<City>Topeka</City>
+<ST>KS</ST>
+<CERT>22728</CERT>
+<Acquiring_Institution>Citizens Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>22 August 2008</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Priority Bank</Bank_Name>
+<City>Bradenton</City>
+<ST>FL</ST>
+<CERT>57523</CERT>
+<Acquiring_Institution>SunTrust Bank</Acquiring_Institution>
+<Closing_Date>1 August 2008</Closing_Date>
+<Updated_Date>16 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Heritage Bank, NA</Bank_Name>
+<City>Newport Beach</City>
+<ST>CA</ST>
+<CERT>57961</CERT>
+<Acquiring_Institution>Mutual of Omaha Bank</Acquiring_Institution>
+<Closing_Date>25 July 2008</Closing_Date>
+<Updated_Date>28 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First National Bank of Nevada</Bank_Name>
+<City>Reno</City>
+<ST>NV</ST>
+<CERT>27011</CERT>
+<Acquiring_Institution>Mutual of Omaha Bank</Acquiring_Institution>
+<Closing_Date>25 July 2008</Closing_Date>
+<Updated_Date>28 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>IndyMac Bank</Bank_Name>
+<City>Pasadena</City>
+<ST>CA</ST>
+<CERT>29730</CERT>
+<Acquiring_Institution>OneWest Bank, FSB</Acquiring_Institution>
+<Closing_Date>11 July 2008</Closing_Date>
+<Updated_Date>28 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Integrity Bank, NA</Bank_Name>
+<City>Staples</City>
+<ST>MN</ST>
+<CERT>12736</CERT>
+<Acquiring_Institution>First International Bank and Trust</Acquiring_Institution>
+<Closing_Date>30 May 2008</Closing_Date>
+<Updated_Date>28 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>ANB Financial, NA</Bank_Name>
+<City>Bentonville</City>
+<ST>AR</ST>
+<CERT>33901</CERT>
+<Acquiring_Institution>Pulaski Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>9 May 2008</Closing_Date>
+<Updated_Date>28 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Hume Bank</Bank_Name>
+<City>Hume</City>
+<ST>MO</ST>
+<CERT>1971</CERT>
+<Acquiring_Institution>Security Bank</Acquiring_Institution>
+<Closing_Date>7 March 2008</Closing_Date>
+<Updated_Date>28 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Douglass National Bank</Bank_Name>
+<City>Kansas City</City>
+<ST>MO</ST>
+<CERT>24660</CERT>
+<Acquiring_Institution>Liberty Bank and Trust Company</Acquiring_Institution>
+<Closing_Date>25 January 2008</Closing_Date>
+<Updated_Date>26 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Miami Valley Bank</Bank_Name>
+<City>Lakeview</City>
+<ST>OH</ST>
+<CERT>16848</CERT>
+<Acquiring_Institution>The Citizens Banking Company</Acquiring_Institution>
+<Closing_Date>4 October 2007</Closing_Date>
+<Updated_Date>28 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>NetBank</Bank_Name>
+<City>Alpharetta</City>
+<ST>GA</ST>
+<CERT>32575</CERT>
+<Acquiring_Institution>ING DIRECT</Acquiring_Institution>
+<Closing_Date>28 September 2007</Closing_Date>
+<Updated_Date>28 August 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Metropolitan Savings Bank</Bank_Name>
+<City>Pittsburgh</City>
+<ST>PA</ST>
+<CERT>35353</CERT>
+<Acquiring_Institution>Allegheny Valley Bank of Pittsburgh</Acquiring_Institution>
+<Closing_Date>2 February 2007</Closing_Date>
+<Updated_Date>27 October 2010</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Ephraim</Bank_Name>
+<City>Ephraim</City>
+<ST>UT</ST>
+<CERT>1249</CERT>
+<Acquiring_Institution>Far West Bank</Acquiring_Institution>
+<Closing_Date>25 June 2004</Closing_Date>
+<Updated_Date>9 April 2008</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Reliance Bank</Bank_Name>
+<City>White Plains</City>
+<ST>NY</ST>
+<CERT>26778</CERT>
+<Acquiring_Institution>Union State Bank</Acquiring_Institution>
+<Closing_Date>19 March 2004</Closing_Date>
+<Updated_Date>9 April 2008</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Guaranty National Bank of Tallahassee</Bank_Name>
+<City>Tallahassee</City>
+<ST>FL</ST>
+<CERT>26838</CERT>
+<Acquiring_Institution>Hancock Bank of Florida</Acquiring_Institution>
+<Closing_Date>12 March 2004</Closing_Date>
+<Updated_Date>5 June 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Dollar Savings Bank</Bank_Name>
+<City>Newark</City>
+<ST>NJ</ST>
+<CERT>31330</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>14 February 2004</Closing_Date>
+<Updated_Date>9 April 2008</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Pulaski Savings Bank</Bank_Name>
+<City>Philadelphia</City>
+<ST>PA</ST>
+<CERT>27203</CERT>
+<Acquiring_Institution>Earthstar Bank</Acquiring_Institution>
+<Closing_Date>14 November 2003</Closing_Date>
+<Updated_Date>22 July 2005</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First National Bank of Blanchardville</Bank_Name>
+<City>Blanchardville</City>
+<ST>WI</ST>
+<CERT>11639</CERT>
+<Acquiring_Institution>The Park Bank</Acquiring_Institution>
+<Closing_Date>9 May 2003</Closing_Date>
+<Updated_Date>5 June 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Southern Pacific Bank</Bank_Name>
+<City>Torrance</City>
+<ST>CA</ST>
+<CERT>27094</CERT>
+<Acquiring_Institution>Beal Bank</Acquiring_Institution>
+<Closing_Date>7 February 2003</Closing_Date>
+<Updated_Date>20 October 2008</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Farmers Bank of Cheneyville</Bank_Name>
+<City>Cheneyville</City>
+<ST>LA</ST>
+<CERT>16445</CERT>
+<Acquiring_Institution>Sabine State Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>17 December 2002</Closing_Date>
+<Updated_Date>20 October 2004</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Alamo</Bank_Name>
+<City>Alamo</City>
+<ST>TN</ST>
+<CERT>9961</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>8 November 2002</Closing_Date>
+<Updated_Date>18 March 2005</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>AmTrade International Bank</Bank_Name>
+<City>Atlanta</City>
+<ST>GA</ST>
+<CERT>33784</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>30 September 2002</Closing_Date>
+<Updated_Date>11 September 2006</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Universal Federal Savings Bank</Bank_Name>
+<City>Chicago</City>
+<ST>IL</ST>
+<CERT>29355</CERT>
+<Acquiring_Institution>Chicago Community Bank</Acquiring_Institution>
+<Closing_Date>27 June 2002</Closing_Date>
+<Updated_Date>9 April 2008</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Connecticut Bank of Commerce</Bank_Name>
+<City>Stamford</City>
+<ST>CT</ST>
+<CERT>19183</CERT>
+<Acquiring_Institution>Hudson United Bank</Acquiring_Institution>
+<Closing_Date>26 June 2002</Closing_Date>
+<Updated_Date>14 February 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>New Century Bank</Bank_Name>
+<City>Shelby Township</City>
+<ST>MI</ST>
+<CERT>34979</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>28 March 2002</Closing_Date>
+<Updated_Date>18 March 2005</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Net 1st National Bank</Bank_Name>
+<City>Boca Raton</City>
+<ST>FL</ST>
+<CERT>26652</CERT>
+<Acquiring_Institution>Bank Leumi USA</Acquiring_Institution>
+<Closing_Date>1 March 2002</Closing_Date>
+<Updated_Date>9 April 2008</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>NextBank, NA</Bank_Name>
+<City>Phoenix</City>
+<ST>AZ</ST>
+<CERT>22314</CERT>
+<Acquiring_Institution>No Acquirer</Acquiring_Institution>
+<Closing_Date>7 February 2002</Closing_Date>
+<Updated_Date>27 August 2010</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Oakwood Deposit Bank Co.</Bank_Name>
+<City>Oakwood</City>
+<ST>OH</ST>
+<CERT>8966</CERT>
+<Acquiring_Institution>The State Bank &amp; Trust Company</Acquiring_Institution>
+<Closing_Date>1 February 2002</Closing_Date>
+<Updated_Date>25 October 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Sierra Blanca</Bank_Name>
+<City>Sierra Blanca</City>
+<ST>TX</ST>
+<CERT>22002</CERT>
+<Acquiring_Institution>The Security State Bank of Pecos</Acquiring_Institution>
+<Closing_Date>18 January 2002</Closing_Date>
+<Updated_Date>6 November 2003</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Hamilton Bank, NA</Bank_Name>
+<City>Miami</City>
+<ST>FL</ST>
+<CERT>24382</CERT>
+<Acquiring_Institution>Israel Discount Bank of New York</Acquiring_Institution>
+<Closing_Date>11 January 2002</Closing_Date>
+<Updated_Date>5 June 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Sinclair National Bank</Bank_Name>
+<City>Gravette</City>
+<ST>AR</ST>
+<CERT>34248</CERT>
+<Acquiring_Institution>Delta Trust &amp; Bank</Acquiring_Institution>
+<Closing_Date>7 September 2001</Closing_Date>
+<Updated_Date>10 February 2004</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Superior Bank, FSB</Bank_Name>
+<City>Hinsdale</City>
+<ST>IL</ST>
+<CERT>32646</CERT>
+<Acquiring_Institution>Superior Federal, FSB</Acquiring_Institution>
+<Closing_Date>27 July 2001</Closing_Date>
+<Updated_Date>5 June 2012</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Malta National Bank</Bank_Name>
+<City>Malta</City>
+<ST>OH</ST>
+<CERT>6629</CERT>
+<Acquiring_Institution>North Valley Bank</Acquiring_Institution>
+<Closing_Date>3 May 2001</Closing_Date>
+<Updated_Date>18 November 2002</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>First Alliance Bank &amp; Trust Co.</Bank_Name>
+<City>Manchester</City>
+<ST>NH</ST>
+<CERT>34264</CERT>
+<Acquiring_Institution>Southern New Hampshire Bank &amp; Trust</Acquiring_Institution>
+<Closing_Date>2 February 2001</Closing_Date>
+<Updated_Date>18 February 2003</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>National State Bank of Metropolis</Bank_Name>
+<City>Metropolis</City>
+<ST>IL</ST>
+<CERT>3815</CERT>
+<Acquiring_Institution>Banterra Bank of Marion</Acquiring_Institution>
+<Closing_Date>14 December 2000</Closing_Date>
+<Updated_Date>17 March 2005</Updated_Date>
+</ROW>
+<ROW>
+<Bank_Name>Bank of Honolulu</Bank_Name>
+<City>Honolulu</City>
+<ST>HI</ST>
+<CERT>21029</CERT>
+<Acquiring_Institution>Bank of the Orient</Acquiring_Institution>
+<Closing_Date>13 October 2000</Closing_Date>
+<Updated_Date>17 March 2005</Updated_Date>
+</ROW>
+</ROWSET>

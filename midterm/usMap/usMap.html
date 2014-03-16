@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Leaflet Layers Control Example</title>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="css/usMap.css" />
+	<!--[if lte IE 8]><link rel="stylesheet" href="../dist/leaflet.ie.css" /><![endif]-->
+
+</head>
+<body>
+	<div id="map"></div>
+
+	<script src="js/usMap.js"></script>
+
+	<script type="text/javascript" src="js/us-states.js"></script>
+	<script type="text/javascript">
+
+		var map = L.map('map')
+                           .setView(new L.LatLng(37.8, -96),4); 
+                            //map.setMaxBounds(map.getBounds()); 
+                
+                //var southWest = new L.LatLng(14.944785,-135.791016),
+                    //northEast = new L.LatLng(50.903033,-60.556641),
+                    //fitBounds = new L.LatLngBounds(southWest, northEast);
+                        
+
+		var cloudmade = L.tileLayer('http://{s}.tile.cloudmade.com/{key}/{styleId}/256/{z}/{x}/{y}.png', {
+			attribution: 'Map data &copy; 2013 OpenStreetMap contributors, Imagery &copy; 2013 CloudMade',
+			key: '825c6664ffdf4e619e51fb7dd3b47005',
+			styleId: 125192
+		}).addTo(map);
+
+                //22677
+                
+                // control that shows state info on hover
+		var info = L.control();
+
+		info.onAdd = function (map) {
+			this._div = L.DomUtil.create('div', 'info');
+			this.update();
+			return this._div;
+		};
+
+		info.update = function (props) {
+			this._div.innerHTML = '<h4>Bank Closings by State<br>since October 2000</h4>' +  (props ?
+				'<b>' + props.name + '</b><br />' + props.closings + ' bank closings'
+				: 'Hover over a state');
+		};
+
+		info.addTo(map);
+
+
+		// get color depending on population density value
+                //fix colors
+		function getColor(d) {
+			return d > 85 ? '#1a253c' :
+			       d > 80  ? '#1f2c48' :
+			       d > 75  ? '#243353' :
+			       d > 70  ? '#293b5f' :
+			       d > 65  ? '#2e426b' :
+			       d > 60  ? '#334977' :
+			       d > 55  ? '#385183' :
+			       d > 50  ? '#3d588f' :
+			       d > 45  ? '#425f9b' :
+			       d > 40  ? '#4867a7' :
+			       d > 35  ? '#4d6eb2' :
+			       d > 30  ? '#5978b7' :
+			       d > 25  ? '#6481bd' :
+			       d > 20   ? '#708bc2' :
+			       d > 15   ? '#7c95c7' :
+			       d > 10   ? '#94a8d1' :
+                               d > 5   ? '#acbbdb' :
+			       d > 1   ? '#c4cfe5' :
+			                  '#e7ecf5';
+		}
+
+		function style(feature) {
+			return {
+				weight: 1,
+				opacity: 1,
+				color: '#C6C6C6',
+				dashArray: '3',
+				fillOpacity: 0.5,
+				fillColor: getColor(feature.properties.closings)
+			};
+		}
+
+		function highlightFeature(e) {
+			var layer = e.target;
+
+			layer.setStyle({
+				weight: 5,
+				color: '#666',
+				dashArray: '',
+				fillOpacity: 0.7
+			});
+
+			if (!L.Browser.ie && !L.Browser.opera) {
+				layer.bringToFront();
+			}
+
+			info.update(layer.feature.properties);
+		}
+
+		var geojson;
+
+		function resetHighlight(e) {
+			geojson.resetStyle(e.target);
+			info.update();
+		}
+
+		function zoomToFeature(e) {
+			map.fitBounds(e.target.getBounds());
+		}
+
+		function onEachFeature(feature, layer) {
+			layer.on({
+				mouseover: highlightFeature,
+				mouseout: resetHighlight,
+				click: zoomToFeature
+			});
+		}
+
+		geojson = L.geoJson(statesData, {
+			style: style,
+			onEachFeature: onEachFeature
+		}).addTo(map);
+
+		
+
+
+		var legend = L.control({position: 'bottomright'});
+
+		legend.onAdd = function (map) {
+
+			var div = L.DomUtil.create('div', 'info legend'),
+				grades = [0, 1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85],
+				labels = [],
+				from, to;
+
+			for (var i = 0; i < grades.length; i++) {
+				from = grades[i];
+				to = grades[i + 1];
+
+				labels.push(
+					'<i style="background:' + getColor(from) + '"></i> ' +
+					from + (to ? '&ndash;' + to : '+'));
+			}
+
+			div.innerHTML = labels.join('<br>');
+			return div;
+		};
+
+		legend.addTo(map);
+
+	</script>
+</body>
+</html>
